@@ -2,34 +2,37 @@
 
 
 ```shloka-sa
-अश्वत्थम् एनम् सविरूढमूलम्
-```
-```shloka-sa-hk
-azvattham enam savirUDhamUlam
-```
-```shloka-sa
-असङ्ग शस्त्रेण दृढेन छित्वा ॥ ३ ॥
-```
-```shloka-sa-hk
-asaGga zastreNa dRDhena chitvA || 3 ||
-```
-```shloka-sa
-ततः पदम् तत् परिमार्गितव्यम्
-```
-```shloka-sa-hk
-tataH padam tat parimArgitavyam
-```
-```shloka-sa
-यस्मिन् गता न निवर्तन्ति भूयः ।
-```
-```shloka-sa-hk
-yasmin gatA na nivartanti bhUyaH |
-```
 
+अश्वत्थम् एनम् सविरूढमूलम्
+असङ्ग शस्त्रेण दृढेन छित्वा ॥ ३ ॥
+ततः पदम् तत् परिमार्गितव्यम्
+यस्मिन् गता न निवर्तन्ति भूयः ।
+
+```
+```shloka-sa-hk
+
+azvattham enam savirUDhamUlam
+asaGga zastreNa dRDhena chitvA || 3 ||
+tataH padam tat parimArgitavyam
+yasmin gatA na nivartanti bhUyaH |
+
+```
 `छित्वा` `[chitvA]` Having cut off `एनम् अश्वत्थम्` `[enam azvattham]` this pepal tree `सविरूढमूलम्` `[savirUDhamUlam]` with its overgrown roots `असङ्ग शस्त्रेण` `[asaGga zastreNa]` using the weapon of decoupling `दृढेन` `[dRDhena]` and strength, `ततः तत् पदम्` `[tataH tat padam]` that goal `परिमार्गितव्यम्` `[parimArgitavyam]` is to be sought - `यस्मिन् गताः` `[yasmin gatAH]` the state from which `न निवर्तन्ति भूयः` `[na nivartanti bhUyaH]` people do not return anymore.
 
-This [pepal tree](pepal_tree), which was described before, is famous for its numerous well-grown roots and shoots. By knowing it, a person uses the ‘weapon of decoupling’ to cut free of their grip. ‘Decoupling’ is to leave attachment to experiences that are loaded with material [qualities](satva_rajas_tamas). 
+This 
+[pepal tree](pepal_tree)
+, which was described before, is famous for its numerous well-grown roots and shoots. By knowing it, a person uses the ‘weapon of decoupling’ to cut free of their grip. ‘Decoupling’ is to leave attachment to experiences that are loaded with material 
+[qualities](satva_rajas_tamas)
+. 
+
 He well and truly cuts free with firm perseverance.
+
 Then, with the Self being free from the stimuli of the environment, he must seek that permanent goal, entering which people don't return anymore.
-How can we get away from our in-built attachment to experience materials and their [qualities](satva_rajas_tamas)? These attachments have been with us since [beginning-less time](beginningless_time). The misconception that the body is the Self gives rise to such attachments. How do we rid ourselves of this misconception? The Lord explains next -
+
+How can we get away from our in-built attachment to experience materials and their 
+[qualities](satva_rajas_tamas)
+? These attachments have been with us since 
+[beginning-less time](beginningless_time)
+. The misconception that the body is the Self gives rise to such attachments. How do we rid ourselves of this misconception? The Lord explains next -
+
 
