@@ -18,6 +18,10 @@ It was also stated that devotion is effective in achieving great wealth in this 
 
 
 
+<a name='applopener_174'></a>
+> Devotion in this world
+
+
 
 The next six chapters offer clarity about the material environment and the Self. They also describe how their combination forms this world. These chapters also clarify the methods to achieve our goal, along with the associated actions, awareness and devotion – which were stated in the last twelve chapters.
 

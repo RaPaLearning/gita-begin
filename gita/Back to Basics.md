@@ -8,6 +8,10 @@ Many words in Sanskrit and English have multiple meanings. Let’s fix an interp
 
 
 
+<a name='applopener_1'></a>
+> Who am I?
+
+
 
 
 
@@ -25,9 +29,17 @@ Rather than thinking about the
 
 
 
+<a name='applnote_2'></a>
+> I am not my body, am I?
+
+
 
 Am I a body, a walking bundle of cells and chemicals, a machine that keeps responding to stimuli? If that's the case, I would be a different 'me' through my life - the molecules in our body, our shape, size, even our knowledge and memory - none of them are constant through the life of the body. However, I still remain 'me' throughout my life even if every aspect of my body gets replaced along the way.
 
+
+
+<a name='applnote_3'></a>
+> I am not just a thought, am I?
 
 
 
@@ -37,6 +49,10 @@ There are thoughts in the brain that seem to run on their own. They seem to have
 
 No, these thoughts can change over time while I remain 'me'. If I change my identity, maybe become an active person from a lazy one, do I become a different 'me'? No. When I grow old and lose some memory and other mental faculties, 'I' still exist. The experience of 'I exist' is perhaps part of what's called 'consciousness'.
 
+
+
+<a name='applnote_4'></a>
+> What am I? Let’s begin the discovery of the Self and its relation with the Lord.
 
 
 
@@ -50,6 +66,10 @@ Let's use the term 'Self' to refer to that which gives rise to 'consciousness'. 
 <a name='karmayOga_a_defn'></a>
 Yoga is about realization - a journey to get real. To associate facts and observations, gain knowledge and materials required to realize our objective. We commonly use the word 'yoga' to mean the postures and activities that go into realizing the capabilities of our body and mind. This word has a deeper meaning. 
 
+
+
+<a name='applnote_5'></a>
+> Yoga is a journey to discover reality. Every form of yoga leads to the same discovery.
 
 
 
@@ -71,8 +91,16 @@ Yoga – be it postures, the forms described above, a study of a science or cont
 
 
 
+<a name='applopener_6'></a>
+> What am I doing?
 
 
+
+
+
+
+<a name='applnote_7'></a>
+> Our journey in life is a series of activities. Is it about ‘doing’ or ‘making it happen’?
 
 
 
@@ -98,6 +126,14 @@ These outcomes and experiences form the 'fruit' of the action, called
 
 
 
+<a name='applopener_8'></a>
+> Why am I doing it?
+
+
+
+
+<a name='applnote_9'></a>
+> If the action doesn’t guarantee an outcome, why should I work, or give my 100% to achieve a goal?
 
 
 
@@ -129,6 +165,10 @@ In all of this,
 
 
 
+<a name='applnote_10'></a>
+> Look beyond desire. Focus on the purpose even when you don’t reach the goal you expect.
+
+
 
 With this example, I know the meaning of 
 `धर्म` `[dharma]`
@@ -145,11 +185,19 @@ To ‘worship’ is to ‘honor and adore’. Doing this consciously means doing
 
 
 
+<a name='applopener_11'></a>
+> Is there a different way?
+
+
 
 
 
 Moksha is to be free of all limitations. 
 
+
+
+<a name='applnote_12'></a>
+> What’s it like to be really free?
 
 
 

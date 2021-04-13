@@ -14,6 +14,10 @@ sukham tu idAnIm trividham zRNu me bharatarSabha |
 `भरतर्षभ` `[bharatarSabha]` Arjuna, `सुखम्` `[sukham]` the happiness that comes from them `तु त्रिविधम्` `[tu trividham]` is also of three types. `शृणु` `[zRNu]` Hear it `मे` `[me]` from Me `ईदानीम्` `[IdAnIm]` now.
 
 
+<a name='applnote_229'></a>
+> Activities are done in the pursuit of happiness.
+
+
 
 Next, listen to the distinctions made by the 
 [three qualities](satva_rajas_tamas_effects)

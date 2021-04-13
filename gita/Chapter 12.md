@@ -24,6 +24,10 @@ Next, The Lord states that His worship in the form of
 
 
 
+<a name='applopener_167'></a>
+> Let’s devote ourselves to the Lord
+
+
 
 This chapter describes the practice of the Lord’s worship along with its accessories. It also describes the quest of the Self for people who are incapable of worship. 
 

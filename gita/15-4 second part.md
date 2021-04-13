@@ -18,6 +18,10 @@ yataH pravRttiH prasRtA purANI || 4 ||
 [surrender](Sharanagati) `तम् एव` `[tam eva]` to that very `पुरुषम्` `[puruSam]` Person `यतः` `[yataH]` from whom `प्रवृत्तिः` `[pravRttiH]` all existence `प्रसृता` `[prasRtA]` came forth `पुराणी` `[purANI]` long ago.
 
 
+<a name='applnote_198'></a>
+> The extent of your entanglement doesn’t matter. Surrender to the source and get free.
+
+
 
 To get rid of ignorance, we must 
 [surrender](Sharanagati)

@@ -52,9 +52,18 @@ Further, it is stated in the
 
 
 
+<a name='applnote_116'></a>
+> <a name='bhakti_a_defn'></a>
+Worship is an uninterrupted chain of thought
+
+
 
 By the emphasis laid here, we see that worship is the uninterrupted chain of thought, which makes a person obtain the blessings of the Lord. Since the object of worship is so adorable, the chain of thought called worship itself is lovely. 
 
+
+
+<a name='applnote_117'></a>
+> Devotion is to worship with friendship
 
 
 
