@@ -10,6 +10,6 @@ yajJa dAna tapaH karma na tyAjyam kAryam eva tat |
 
 `कर्म` `[karma]` Actions of `यज्ञ` `[yajJa]` worship, `दान` `[dAna]` charity, `तपः` `[tapaH]` and discipline `न त्याज्यम्` `[na tyAjyam]` are not to be given up. `तत्` `[tat]` Such action `कार्यम् एव` `[kAryam eva]` must certainly be done.
 
-A person who desires 
+A person who desires [Moksha](Moksha) must not abandon worship, charity, discipline and other activities prescribed in the scriptures. Instead they must be performed daily, till the time a person departs from the body.
 Why do these activities need to be done?
 

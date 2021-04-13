@@ -13,5 +13,5 @@ nAyam loko'sti ayajJasya kuto'nyaH kurusattama || 31 ||
 
 
 When a person doesn’t practice worship in daily life, he doesn’t find a place in this material world itself. The great forms of worship follow the practice of worship in daily life. Such a person is not successful in upholding his righteousness, nor does he achieve goals like wealth and desires, which are related to the material world.
-How can he achieve the ultimate goal of 
+How can he achieve the ultimate goal of [Moksha](Moksha), which is different from all this? The goal of [Moksha](Moksha) is shown to be superior to all other goals. The phrase ‘this material world’ signifies all the goals we experience naturally.
 

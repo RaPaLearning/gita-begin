@@ -1,6 +1,6 @@
-# Transliteration notes
+# <a name='_Toc488528591'></a>Transliteration notes
 
-Transliteration is about writing the letters of Devanagari in the English alphabet. Here is a table with the mapping used in this document.
+<a name='transliteration'></a>Transliteration is about writing the letters of Devanagari in the English alphabet. Here is a table with the mapping used in this document.
 अ
 आ
 इ
@@ -146,8 +146,8 @@ H
 
 
 Some exceptions have been made for readability:
-ज्ञ is transliterated as jna. E.g., 
-_: used for S. For example, [bhakta:] + 
+<a name='h.3znysh7'></a>ज्ञ is transliterated as jna. E.g., `यज्ञ` `[yajJa]` ,`ज्ञान` `[jJAna]` ,etc.
+_: used for S. For example, [bhakta:] + `असि` `[asi]` = `भकोऽसि` `[bhako'si]`
 अं is normally transliterated as aM, as shown in the table above. In certain places, it is approximated by 'm' or by 'n'. Ease of reading is given preference over literal accuracy.
 
 

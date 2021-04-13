@@ -12,5 +12,5 @@ sukham tu idAnIm trividham zRNu me bharatarSabha |
 
 
 
-Next, listen to the distinctions made by the 
+Next, listen to the distinctions made by the [three qualities](satva_rajas_tamas_effects) in 'happiness', which is the purpose of all the knowledge, actions, doers, intellect and resolve described up until now.
 
