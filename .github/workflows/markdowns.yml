@@ -1,8 +1,9 @@
 name: Check markdown files
 
 on:
-  push:
-    branches: [ main ]
+  # bring back when you gain control on markdowns
+  # push:
+  #   branches: [ main ]
   pull_request:
     branches: [ main ]
 
