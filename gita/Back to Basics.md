@@ -1,47 +1,30 @@
-# <a name='_Kindling_curiosity_of_a_Srivaishnav_1'></a>
-<a name='_Translatory_notes_1'></a>
-<a name='_Toc488528590'></a>
-Back to Basics
-
+# Back to Basics
 
 Many words in Sanskrit and English have multiple meanings. Let’s fix an interpretation to frequently encountered words. This interpretation may be different from what we’re accustomed to. If you don’t understand even after reading this, don’t worry. Stay in the journey of inquiry and don’t get anxious about answers.
-
-
 
 <a name='applopener_1'></a>
 > Who am I?
 
+## [Atma] - The Self
 
-
-
-
-As the Lord Himself states, it is not possible to describe the 
+As the Lord Himself states, it isn't possible to describe the 
 `आत्म` `[Atma]`
  in speech, nor is it possible to understand it using the intellect. Needless to say, the word 
 `आत्म` `[Atma]`
  is difficult to translate. I have used the word ‘Self’ with an uppercase 'S' as the translation of the word 
-`आत्म` `[Atma]`
-. 
+`आत्म` `[Atma]`.
 
 Rather than thinking about the 
 `आत्म` `[Atma]`
- as a ghostly soul, consider it as being ‘me’. The Self is 'me'. That brings us to the question 'What am I?' Let's start by seeing what the Self isn't.
-
-
+as a ghostly soul, consider it as being ‘me’. The Self is 'me'. That brings us to the question 'What am I?' Let's start by seeing what the Self isn't.
 
 <a name='applnote_2'></a>
 > I am not my body, am I?
 
-
-
-Am I a body, a walking bundle of cells and chemicals, a machine that keeps responding to stimuli? If that's the case, I would be a different 'me' through my life - the molecules in our body, our shape, size, even our knowledge and memory - none of them are constant through the life of the body. However, I still remain 'me' throughout my life even if every aspect of my body gets replaced along the way.
-
-
+Am I a body, a walking bundle of cells and chemicals, a machine that keeps responding to stimuli? If that's the case, I would be a different 'me' through my life - the molecules in our body, our shape, size, even our knowledge and memory - none of them are constant through the life of the body. However, I remain 'me' throughout my life even if every aspect of my body gets replaced along the way.
 
 <a name='applnote_3'></a>
 > I am not just a thought, am I?
-
-
 
 Let' go a little deeper. Am I my brain? The brain is part of the nervous system, which routes all stimuli through its circuits. Those circuits are nerve cells insulated from each other by fatty tissue, connected through gaps in the insulation. This is known to be the way memory is built and information is processed.
 
@@ -49,60 +32,45 @@ There are thoughts in the brain that seem to run on their own. They seem to have
 
 No, these thoughts can change over time while I remain 'me'. If I change my identity, maybe become an active person from a lazy one, do I become a different 'me'? No. When I grow old and lose some memory and other mental faculties, 'I' still exist. The experience of 'I exist' is perhaps part of what's called 'consciousness'.
 
-
-
 <a name='applnote_4'></a>
 > What am I? Let’s begin the discovery of the Self and its relation with the Lord.
-
-
 
 The current state of the art has not revealed the true nature of our consciousness. What is consciousness made of? Does it follow any laws of conservation? Did it exist when the universe was created? Is it responsible for the awareness and experience of the universe? Are there different types of consciousness?
 
 Let's use the term 'Self' to refer to that which gives rise to 'consciousness'. The Lord begins his conversation with Arjuna by describing the nature of the Self in the second chapter. He then explains the method of realizing it.
 
-
-
-
 <a name='karmayOga_a_defn'></a>
+
+## Karmayoga
+
 Yoga is about realization - a journey to get real. To associate facts and observations, gain knowledge and materials required to realize our objective. We commonly use the word 'yoga' to mean the postures and activities that go into realizing the capabilities of our body and mind. This word has a deeper meaning. 
-
-
 
 <a name='applnote_5'></a>
 > Yoga is a journey to discover reality. Every form of yoga leads to the same discovery.
 
-
-
 Three forms of yoga are seen in the conversation of the Gita.
 
 First, the Lord reveals the art of practicing yoga in all our activities. It’s about realizing that we aren't entitled to any outcomes, that the Lord is the enjoyer and the purpose of our actions. This is reality. Practicing this reality is called 
-`कर्मयोग` `[karmayoga]`
-. 
+`कर्मयोग` `[karmayoga]`. 
 
 Second, He describes yoga in our thoughts. This is the realization that we are not our body; that the Self exists for the Lord; that The Lord is all-powerful and acts according to His principles. This is real knowledge and its practice is called 
-`ज्ञानयोग` `[jJAnayoga]`
-.
+`ज्ञानयोग` `[jJAnayoga]`.
 
 Third, He talks about practicing yoga in devotion. It is to adore the Lord and have Him in our thoughts always. This is our state of being and our relationship with the Lord. Such practice is called 
-`भक्तियोग` `[bhaktiyoga]`
-.
+`भक्तियोग` `[bhaktiyoga]`.
 
 Yoga – be it postures, the forms described above, a study of a science or contemplation - each of them is a journey in our understanding of the material universe, our body as a part of the universe, us and our relationship with the Lord. Such understanding comes with equanimity.
-
 
 
 <a name='applopener_6'></a>
 > What am I doing?
 
+<a name='actions_and_happenings'></a>
 
-
-
-
+## [karma] - Action, Activity
 
 <a name='applnote_7'></a>
 > Our journey in life is a series of activities. Is it about ‘doing’ or ‘making it happen’?
-
-
 
 The word 
 `कर्म` `[karma]`
