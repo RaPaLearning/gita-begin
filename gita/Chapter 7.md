@@ -1,9 +1,8 @@
-# <a name='_Toc488528598'></a>
-Chapter 7
-
+<a name='_Toc488528598'></a>
+# Chapter 7
 
 In the first volume (Chapter 1 to Chapter 6), Lord Krishna described the way to realize the Self. This realization is an accessory in the service of the Lord. It is achieved by 
-[working](rId84)
+[working](karmayoga)
  purely as worship to the Lord, without being driven by desire. Such work has the knowledge of the Self embedded in it. 
 
 Worship is the means to reach Lord Narayana, who is always present with Lakshmi, who alone is the creator of the universe, who is flawless, who knows everything, who is present in all beings, whose will is always realized, who pervades everything and is beyond the perception of our sense organs. 

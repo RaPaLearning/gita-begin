@@ -41,7 +41,7 @@ Let's use the term 'Self' to refer to that which gives rise to 'consciousness'. 
 
 <a name='karmayOga_a_defn'></a>
 
-## Karmayoga
+## [yOga] - To associate, gain and realize
 
 Yoga is about realization - a journey to get real. To associate facts and observations, gain knowledge and materials required to realize our objective. We commonly use the word 'yoga' to mean the postures and activities that go into realizing the capabilities of our body and mind. This word has a deeper meaning. 
 
@@ -60,7 +60,6 @@ Third, He talks about practicing yoga in devotion. It is to adore the Lord and h
 `भक्तियोग` `[bhaktiyoga]`.
 
 Yoga – be it postures, the forms described above, a study of a science or contemplation - each of them is a journey in our understanding of the material universe, our body as a part of the universe, us and our relationship with the Lord. Such understanding comes with equanimity.
-
 
 <a name='applopener_6'></a>
 > What am I doing?
@@ -92,20 +91,13 @@ These outcomes and experiences form the 'fruit' of the action, called
 `कर्मफल` `[karmaphala]`
 . The results that follow my actions can give me joy or sorrow, depending on my attachment towards the action and its result. An outcome doesn't belong to the action – by doing something, I am not entitled to a particular experience. If I don't recognize this, I tie my activity to my experience and will be bound by it. Such activity wouldn't be liberating anymore, it would be pretty depressing.
 
-
-
 <a name='applopener_8'></a>
 > Why am I doing it?
-
-
-
 
 <a name='applnote_9'></a>
 > If the action doesn’t guarantee an outcome, why should I work, or give my 100% to achieve a goal?
 
-
-
-
+## [dharma] – That which uplifts
 
 It is the first word in the Gita and appears many times in the epic. Often, it's translated to mean 'righteousness', which gives the impression that there is always 'one right thing'. 
 
@@ -144,71 +136,52 @@ With this example, I know the meaning of
 
 The problem of purpose appears again and again in the Mahabharata. The resolution is also consistently stated each time: Look beyond desires. Focus on purpose and don't go behind outcomes. Have the Lord as your purpose and worship Him. At this point, there doesn’t seem to be a logical link from the ‘problem of purpose’ to the ‘resolution by worship’. That’s the journey of the Gita.
 
-
-
+## [yajna] - An act of worship
 
 To ‘worship’ is to ‘honor and adore’. Doing this consciously means doing it according to a procedure. Though the word 
 `यज्ञ` `[yajJa]`
  is often used to mean ‘sacrifice’, here we consider the more general meaning of ‘worship’.
 
-
-
 <a name='applopener_11'></a>
 > Is there a different way?
 
-
-
-
+## [mOksha] - The joy of liberation
 
 Moksha is to be free of all limitations. 
-
-
 
 <a name='applnote_12'></a>
 > What’s it like to be really free?
 
-
-
 We cannot really imagine this state of being, since we’ve never been free of all limitations. To start with, we need to live with the limitations of our body. Then there is the limitation that comes from our desires and attachments - which may come from things we own, the society, family or friends. 
 
 All of them are undoubtedly valuable - be it the body, the society, family or friends. We cannot accomplish much without them. The question is: How many activities do we initiate, expecting to gain or maintain them? How many activities do we initiate independently, after which the rest of the story comes together to make it 
-[happen](Back to Basics.md#actions_and_happenings)
-?
+[happen](Back to Basics.md#actions_and_happenings)?
 
 It isn’t necessary to have expectations whenever we initiate something. In fact, expectations are limiting in nature. Take the activity of singing, for instance. When I expect appreciation and sing, I do not feel much liberty in the initiative, being constrained by my impression of the audience. Even when I'm appreciated, it’s temporary and I need more appreciation the next time. It doesn’t liberate me in any way. On the other hand, if I sing for the joy of singing, it feels more liberating. There is no question of failure while I’m enjoying my singing. Though I may delight in an activity in this way, repeating the same thing feels boring and my initiative reduces. Then, such an initiative is not totally liberating either.
 
 What if there is a purpose that we’re always meant to achieve? What if any initiative towards that purpose was never to fail? What if that purpose is easy and always delightful, no matter how many times it’s repeated, no matter how much criticism happens? Being in such a purpose is the ultimate liberty. That purpose is the Lord. Achievement of that purpose is Moksha.
 
 Those who are in this purpose 
-[are not driven](rId8)
- by the world.
-
+[are not driven](karmayoga) by the world.
 
 Let’s examine a few more words before we get started with the Bhagavad-Gita.
 
-
-
+## [anAdi kAla] - Beginning-less time
 
 It's the time that transcends the creation and destruction of the universe. As opposed to this, the ‘normal’ time is the one we experience, which starts with the creation of this universe.
 
-
-
+## [vishEShaNa] - Attribute
 
 An attribute is a property that cannot exist on its own. For example, 'red color' is an attribute of blood: the attribute of 'redness' cannot exist on its own: there has to be an object that shows up as red, for the attribute to exist. Likewise, we and our universe are attributes of the Lord.
 
-
-
+## [mana:] - The mind
 
 The mind is an instrument for the Self to experience this universe. Understanding, perception, intelligence and cognition come from the mind.
 
-
-
+## [buddhi] - The intellect 
 
 The intellect gives the ability to reason and distinguish.
 
-
-
+## References to the Lord
 
 All references to the Lord, including pronouns, start with an uppercase letter. For example: The Lord said ‘I make Myself come into being by My own will’.
-
-
