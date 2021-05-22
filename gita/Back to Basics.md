@@ -172,7 +172,7 @@ Moksha is to be free of all limitations.
 We cannot really imagine this state of being, since we’ve never been free of all limitations. To start with, we need to live with the limitations of our body. Then there is the limitation that comes from our desires and attachments - which may come from things we own, the society, family or friends. 
 
 All of them are undoubtedly valuable - be it the body, the society, family or friends. We cannot accomplish much without them. The question is: How many activities do we initiate, expecting to gain or maintain them? How many activities do we initiate independently, after which the rest of the story comes together to make it 
-[happen](actions_and_happenings)
+[happen](Back to Basics.md#actions_and_happenings)
 ?
 
 It isn’t necessary to have expectations whenever we initiate something. In fact, expectations are limiting in nature. Take the activity of singing, for instance. When I expect appreciation and sing, I do not feel much liberty in the initiative, being constrained by my impression of the audience. Even when I'm appreciated, it’s temporary and I need more appreciation the next time. It doesn’t liberate me in any way. On the other hand, if I sing for the joy of singing, it feels more liberating. There is no question of failure while I’m enjoying my singing. Though I may delight in an activity in this way, repeating the same thing feels boring and my initiative reduces. Then, such an initiative is not totally liberating either.
