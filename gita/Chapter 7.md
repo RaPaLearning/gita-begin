@@ -46,7 +46,7 @@ Further, it is stated in the
 `कठ उपनिशत्, २-२३` `[kaTha upanizat, 2-23]` :
  This Self and the Lord are not achievable by instruction, not by thought, not even by hearing a lot about them. The person who is blessed by the Lord alone will attain the Lord. The Lord will show himself to this person.
 
-<a name='bhakti_a_defn'>
+<a name='bhakti_a_defn'></a>
 
 <a name='applnote_116'></a>
 > Worship is an uninterrupted chain of thought
@@ -58,7 +58,7 @@ By the emphasis laid here, we see that worship is the uninterrupted chain of tho
 
 This is called bhakti: 'When the uninterrupted chain of thought is filled with friendship, it is called bhakti' -as stated in [laingapurANa,uttarabhAga:].
 
-</a>
+<!-- bhakti_a_defn spans till here -->
 
 Further, there are more statements in the scriptures that convey the same meaning:
 
