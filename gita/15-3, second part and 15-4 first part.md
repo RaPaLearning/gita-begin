@@ -32,7 +32,7 @@ Then, with the Self being free from the stimuli of the environment, he must seek
 How can we get away from our in-built attachment to experience materials and their 
 [qualities](satva_rajas_tamas)
 ? These attachments have been with us since 
-[beginning-less time](beginningless_time)
+[beginning-less time](Back to Basics.md#beginningless_time)
 . The misconception that the body is the Self gives rise to such attachments. How do we rid ourselves of this misconception? The Lord explains next -
 
 

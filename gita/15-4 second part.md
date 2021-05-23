@@ -46,7 +46,7 @@ By surrendering to that very Person who is the origin of everything, all achieve
  is ancient and has been practiced by people who desire 
 [moksha](Moksha)
 . It is in practice since 
-[beginning-less time](beginningless_time)
+[beginning-less time](Back to Basics.md#beginningless_time)
 . The Lord says here - 'Since ancient times, those who desire 
 [moksha](Moksha)
  have surrendered to Me and are free from all bonds'.

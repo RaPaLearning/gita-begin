@@ -166,9 +166,12 @@ Those who are in this purpose
 
 Let’s examine a few more words before we get started with the Bhagavad-Gita.
 
+<a name='beginningless_time'></a>
+
 ## [anAdi kAla] - Beginning-less time
 
-It's the time that transcends the creation and destruction of the universe. As opposed to this, the ‘normal’ time is the one we experience, which starts with the creation of this universe.
+It's the time that spans across cycles of creation and destruction. It has no beginning. As opposed to this, the ‘normal’ time is the one we experience, which starts with the
+[creation of this universe](CosmicInflation_stages)
 
 ## [vishEShaNa] - Attribute
 
