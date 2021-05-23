@@ -31,7 +31,7 @@ This chapter also describes the effects of
 . It illustrates the way to achieve of the Lord with activities that are natural to us. We worship the Lord with our normal activity. 
 
 These Shlokas state that 
-[devotion](bhakti_a_defn)
+[devotion](Chapter 7.md#bhakti_a_defn)
  to the Lord is the summary of the entire text of the Gita.
 
 While going into this summary, Arjuna first wants to determine if 'letting go' is same as 'renunciation', or if they're something different. Here, the phrase 'letting go' is to lose possessiveness towards our actions and their outcomes; 'renunciation' is about giving up actions themselves. He asks to know their characteristics.

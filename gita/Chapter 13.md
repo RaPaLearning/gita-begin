@@ -5,7 +5,7 @@ Chapter 13
 The first six chapters described Krishna as the Supreme Lord and the 
 [ultimate achievement](Moksha)
 . To achieve Him, those chapters described 
-[devotion](bhakti_a_defn)
+[devotion](Chapter 7.md#bhakti_a_defn)
  as a part of the Lord's worship. They also described the techniques of 
 [contemplation](jnAnayOga_a_defn)
  and 

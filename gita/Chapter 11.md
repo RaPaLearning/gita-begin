@@ -6,7 +6,7 @@ Chapter 11
 Until now, the Lord described His presence as 
 [the Self in everything](universe_as_his_body)
 , along with all His favorable characteristics, all unique to Him. He did this to start our 
-[association with devotion](bhakti_a_defn)
+[association with devotion](Chapter 7.md#bhakti_a_defn)
  and to enhance it. 
 
 From this, we know that the entire universe 

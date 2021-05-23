@@ -16,8 +16,7 @@ Chap.18#46: Any human being attains the goal by worshipping The Lord with his ow
 Chap.18#54: Having realized the Self, with a serene mind, he doesn't get upset and doesn't yearn. Such a person has equanimity among all beings. He attains the ultimate devotion to Me.
 
 These two Shlokas summarized the achievement of 
-[devotion](bhakti_a_defn)
-.
+[devotion](Chapter 7.md#bhakti_a_defn).
 
 Service to the Lord can be a means to achieve Him, only when it takes the form of devotion - as stated in the following sentences of the Vedanta:
 
@@ -25,9 +24,7 @@ Service to the Lord can be a means to achieve Him, only when it takes the form o
  ‘A person overcomes the cycle of deaths only by knowing Him’
 
 `पुरुश सूक्त` `[puruza sUkta]` :
- ‘Knowing Him alone, a person attains 
-[moksha](Moksha)
-’
+ ‘Knowing Him alone, a person attains [moksha](Moksha)’
 
 And further:
 
@@ -49,24 +46,19 @@ Further, it is stated in the
 `कठ उपनिशत्, २-२३` `[kaTha upanizat, 2-23]` :
  This Self and the Lord are not achievable by instruction, not by thought, not even by hearing a lot about them. The person who is blessed by the Lord alone will attain the Lord. The Lord will show himself to this person.
 
-
+<a name='bhakti_a_defn'>
 
 <a name='applnote_116'></a>
-> <a name='bhakti_a_defn'></a>
-Worship is an uninterrupted chain of thought
-
-
+> Worship is an uninterrupted chain of thought
 
 By the emphasis laid here, we see that worship is the uninterrupted chain of thought, which makes a person obtain the blessings of the Lord. Since the object of worship is so adorable, the chain of thought called worship itself is lovely. 
-
-
 
 <a name='applnote_117'></a>
 > Devotion is to worship with friendship
 
-
-
 This is called bhakti: 'When the uninterrupted chain of thought is filled with friendship, it is called bhakti' -as stated in [laingapurANa,uttarabhAga:].
+
+</a>
 
 Further, there are more statements in the scriptures that convey the same meaning:
 

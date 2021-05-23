@@ -19,9 +19,9 @@ The 14th chapter explained the state of the Self, bound in the environment, both
  in detail. Finally, it asserted that we cast away the attachment to 
 [material qualities](satva_rajas_tamas)
  by 
-[devotion to the Lord](bhakti_a_defn)
+[devotion to the Lord](Chapter 7.md#bhakti_a_defn)
 . This 
-[devotion](bhakti_a_defn)
+[devotion](Chapter 7.md#bhakti_a_defn)
  achieves the true nature of the Self.
 
 In this chapter, the Lord begins to explain that He, as the object of worship, is the Supreme Person. He is the owner of all that's perishable and imperishable, along with all beings that are made from them. He is also the owner of all 

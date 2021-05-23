@@ -7,7 +7,7 @@ In the 13th chapter, the characteristics of the Self and the environment were de
  were listed, such as being without a sense of superiority. These virtues help in realizing the Self. 
 
 With these virtues, 
-[devotion](bhakti_a_defn)
+[devotion](Chapter 7.md#bhakti_a_defn)
  and the Lord's compassion, a person is 
 [freed](Moksha)
  from material bonds. 
