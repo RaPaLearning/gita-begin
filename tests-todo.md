@@ -9,3 +9,5 @@
 1. Next and Prev html at the bottom, sequence according to toc
 
 1. No [] without the sanskrit (fail Chapter 7, [laingapurANa,uttarabhAga:])
+
+1. Check 11-44 note: A true ?
