@@ -11,3 +11,5 @@
 1. No [] without the sanskrit (fail Chapter 7, [laingapurANa,uttarabhAga:])
 
 1. Check 11-44 note: A true ?
+
+1. Chapter 18-13 na Tu -> tu
