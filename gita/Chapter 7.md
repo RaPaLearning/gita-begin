@@ -58,7 +58,7 @@ By the emphasis laid here, we see that worship is the uninterrupted chain of tho
 
 This is called bhakti: 'When the uninterrupted chain of thought is filled with friendship, it is called bhakti' -as stated in [laingapurANa,uttarabhAga:].
 
-<!-- bhakti_a_defn spans till here -->
+<!-- cross-ref sbhakti_a_defn spans till here -->
 
 Further, there are more statements in the scriptures that convey the same meaning:
 
