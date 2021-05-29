@@ -21,6 +21,5 @@ The Lord was illustrated in His true form - as the Supreme Being.
 <a name='deva_asura'></a>
 Next, The Lord says that it's important to comply with His instructions, which are described in the scriptures. He says this to establish the facts that were listed above. He describes the classification of His creations as ‘deva’ and ‘asura’ - those who comply with His instructions and those who don't.
 
-Though the terms deva and asura translate to gods and demons in mythology, here they are used to refer to the adherence to rules. Devas aim to comply with the Lord's instructions in the scriptures, while asuras don't have regard for those instructions.
-
-
+Though the terms deva and asura translate to gods and demons in mythology, here they're about the intention to follow instructions.
+Devas intend to comply with the Lord's instructions in the scriptures, while asuras don't have regard for those instructions.

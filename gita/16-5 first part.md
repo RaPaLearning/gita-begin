@@ -11,9 +11,9 @@
 daivI sampat vimokSAya nabandhanAyAsurI matA |
 
 ```
-`दैवी` `[daivI]` [Compliance to the Lord's instructions](deva_asura) `सम्पत्` `[sampat]` is an asset `विमोक्षाय` `[vimokSAya]` for 
+`दैवी` `[daivI]` [Compliance to the Lord's instructions](Chapter 16.md#deva_asura) `सम्पत्` `[sampat]` is an asset `विमोक्षाय` `[vimokSAya]` for 
 [liberation](Moksha)
-. `मता` `[matA]` The path of `आसुरी` `[AsurI]` [disregarding for these instructions](deva_asura) `निबन्धनाय` `[nibandhanAya]` is to bind a person in the material world.
+. `मता` `[matA]` The path of `आसुरी` `[AsurI]` [disregarding for these instructions](Chapter 16.md#deva_asura) `निबन्धनाय` `[nibandhanAya]` is to bind a person in the material world.
 
 The Lord's instructions were illustrated 
 [before in this chapter](_16-1_to_16-3)
