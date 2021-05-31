@@ -1,5 +1,4 @@
-## <a name='_15-4_second_part'></a>
-15-4 second part
+## 15-4 second part
 
 
 ```shloka-sa

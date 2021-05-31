@@ -1,6 +1,4 @@
-# <a name='_Toc488528597'></a>
-Chapter 6
-
+# Chapter 6
 
 Till now, The Lord spoke about 
 [working without attachments](karmayoga)

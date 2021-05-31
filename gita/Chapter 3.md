@@ -1,6 +1,5 @@
-# <a name='_Chapter_3'></a>
-<a name='_Toc488528594'></a>
-Chapter 3
+<a name='_Chapter_3'></a>
+# Chapter 3
 
 
 The Lord is the goal of those who seek 

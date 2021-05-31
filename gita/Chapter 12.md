@@ -1,5 +1,4 @@
-# <a name='_Toc488528603'></a>
-Chapter 12
+# Chapter 12
 
 
 Arjuna wished to see the unbounded expanse of the Lord's pervasive power, which is realized by commitment to 

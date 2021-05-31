@@ -2,8 +2,6 @@
 
 [Back to Basics](Back to Basics.md)
 
-[Transliteration notes](Transliteration notes.md)
-
 [Chapter 1](Chapter 1.md)
 
 [1-1 to 1-11](1-1 to 1-11.md)

@@ -1,6 +1,4 @@
-# <a name='_Toc319759680'></a>
-<a name='_Toc488528602'></a>
-Chapter 11
+# Chapter 11
 
 
 Until now, the Lord described His presence as 

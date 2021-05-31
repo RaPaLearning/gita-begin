@@ -1,6 +1,4 @@
-# <a name='_Toc488528609'></a>
-Chapter 18
-
+# Chapter 18
 
 The previous two chapters spoke about activities like worship, discipline and charity - as specified in the Vedas. They explained that the achievements in this world, as well as supreme joy (
 [Moksha](Moksha)

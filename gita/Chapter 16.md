@@ -1,6 +1,4 @@
-# <a name='_Toc488528607'></a>
-Chapter 16
-
+# Chapter 16
 
 The preceding three chapters illustrated many facts.
 

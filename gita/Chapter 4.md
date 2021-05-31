@@ -1,7 +1,4 @@
-# <a name='_Chapter_4'></a>
-<a name='_Toc488528595'></a>
-Chapter 4
-
+# Chapter 4
 
 As long as a person is associated with the material world, it isn’t possible to stay away from activity – even though he may seek 
 [liberation](Moksha)

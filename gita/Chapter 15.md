@@ -1,7 +1,5 @@
-# <a name='_Translatory_notes'></a>
 <a name='_Provoking_thought'></a>
-<a name='_Toc488528606'></a>
-Chapter 15
+# Chapter 15
 
 
 The 13th chapter clarified the environment as the 

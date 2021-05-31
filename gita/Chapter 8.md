@@ -1,6 +1,4 @@
-# <a name='_Toc488528599'></a>
-Chapter 8
-
+# Chapter 8
 
 From Chapter 7, we know Lord Krishna as the Supreme Lord, who is to be worshipped. He is the owner of all things, conscious and non-conscious. He is the cause and the basis of existence of everything. Everything exists like His body, so He is addressed by all words. He directs everything and is ‘above and beyond’ with unlimited auspicious qualities
 

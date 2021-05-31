@@ -1,6 +1,4 @@
-# <a name='_Toc488528600'></a>
-Chapter 9
-
+# Chapter 9
 
 In the previous chapter, The Lord described the 
 [four types of worshippers](four_types_of_worshippers)

@@ -1,5 +1,4 @@
-# <a name='_Chapter_2'></a>
-<a name='_Toc488528593'></a>
-Chapter 2
+<a name='_Chapter_2'></a>
+# Chapter 2
 
-
+This chapter has no introduction. Get started [with the shloka](2-1 to 2-3.md)

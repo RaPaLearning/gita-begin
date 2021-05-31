@@ -1,5 +1,4 @@
-# <a name='_Toc488528608'></a>
-Chapter 17
+# Chapter 17
 
 
 The previous chapter made the distinction between people who comply with the Lord's instructions and those who don't. It said that the Lord's instructions in the Vedas alone are the basis of what is to be achieved and how to achieve it.

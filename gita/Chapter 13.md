@@ -1,5 +1,4 @@
-# <a name='_Toc488528604'></a>
-Chapter 13
+# Chapter 13
 
 
 The first six chapters described Krishna as the Supreme Lord and the 

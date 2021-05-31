@@ -1,5 +1,4 @@
-# <a name='_Toc488528601'></a>
-Chapter 10
+# Chapter 10
 
 
 In the previous chapter, The Lord described the art of 

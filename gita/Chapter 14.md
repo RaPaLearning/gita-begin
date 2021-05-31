@@ -1,5 +1,4 @@
-# <a name='_Toc488528605'></a>
-Chapter 14
+# Chapter 14
 
 
 In the 13th chapter, the characteristics of the Self and the environment were described, along with their association. Then, several 
