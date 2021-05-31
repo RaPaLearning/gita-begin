@@ -152,7 +152,7 @@ Moksha is to be free of all limitations.
 <a name='applnote_12'></a>
 > What’s it like to be really free?
 
-We cannot really imagine this state of being, since we’ve never been free of all limitations. To start with, we need to live with the limitations of our body. Then there is the limitation that comes from our desires and attachments - which may come from things we own, the society, family or friends. 
+We cannot imagine this state of being, since we’ve never been free of all limitations. To start with, we need to live with the limitations of our body. Then there is the limitation that comes from our desires and attachments - which may come from things we own, the society, family or friends. 
 
 All of them are undoubtedly valuable - be it the body, the society, family or friends. We cannot accomplish much without them. The question is: How many activities do we initiate, expecting to gain or maintain them? How many activities do we initiate independently, after which the rest of the story comes together to make it 
 [happen](Back to Basics.md#actions_and_happenings)?

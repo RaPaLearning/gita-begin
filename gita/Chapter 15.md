@@ -3,9 +3,9 @@
 
 
 The 13th chapter clarified the environment as the 
-[field of action](field_and_knower_of_field)
+[field of action](13-1.md#field_and_knower_of_field)
  and the Self as 
-[one who knows the field](field_and_knower_of_field)
+[one who knows the field](13-1.md#field_and_knower_of_field)
 . Then, it explained that the bond between the Self and the environment has no beginning. Though the natural form of the Self is pure and unbounded knowledge, it is bound in a body made from the environment. The Self is limited in this way, due to the continuous flow of attachment to the 
 [three qualities](satva_rajas_tamas)
  in the environment. This attachment has no beginning, it has always been there.
