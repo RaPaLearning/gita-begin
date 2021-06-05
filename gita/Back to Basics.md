@@ -5,7 +5,7 @@ Many words in Sanskrit and English have multiple meanings. Let’s fix an interp
 <a name='applopener_1'></a>
 > Who am I?
 
-## [Atma] - The Self
+## आत्म [Atma] - The Self
 
 As the Lord Himself states, it isn't possible to describe the 
 `आत्म` `[Atma]`
@@ -96,6 +96,13 @@ These outcomes and experiences form the 'fruit' of the action, called
 
 <a name='applnote_9'></a>
 > If the action doesn’t guarantee an outcome, why should I work, or give my 100% to achieve a goal?
+
+## [hEtu] - The reason
+
+The ‘reason for’ something can be a cause that triggers it.
+The motivation for desired outcomes can also be the 'reason' for doing something.
+
+An action relates to you in both ways. However, the outcome of an action doesn’t happen for your purpose. You aren’t the only cause behind an outcome either. Krishna says this in [His famous shloka, 2-47](2-47.md)
 
 ## [dharma] – That which uplifts
 
