@@ -1,7 +1,7 @@
 # Chapter 9
 
 In the previous chapter, The Lord described the 
-[four types of worshippers](four_types_of_worshippers)
+[four types of worshippers](7-16.md#four_types_of_worshippers)
  and their distinctions.
 
 This chapter explores the greatness of the Lord- He is the objective of any worship. It also explores the specialty of the devotee - 
