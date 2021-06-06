@@ -13,3 +13,5 @@
 1. Check 11-44 note: A true ?
 
 1. No # <, title to have # or ## (fail 5-14)
+
+1. Chapter 17 तदर्थीयम्, check note- remove 'that' to make it context independent
