@@ -41,7 +41,7 @@ Let's use the term 'Self' to refer to that which gives rise to 'consciousness'. 
 
 <a name='karmayOga_a_defn'></a>
 
-## [yOga] - To associate, gain and realize
+## योग [yOga] - To associate, gain and realize
 
 Yoga is about realization - a journey to get real. To associate facts and observations, gain knowledge and materials required to realize our objective. We commonly use the word 'yoga' to mean the postures and activities that go into realizing the capabilities of our body and mind. This word has a deeper meaning. 
 
@@ -66,7 +66,7 @@ Yoga – be it postures, the forms described above, a study of a science or cont
 
 <a name='actions_and_happenings'></a>
 
-## [karma] - Action, Activity
+## कर्म [karma] - Action, Activity
 
 <a name='applnote_7'></a>
 > Our journey in life is a series of activities. Is it about ‘doing’ or ‘making it happen’?
@@ -97,14 +97,14 @@ These outcomes and experiences form the 'fruit' of the action, called
 <a name='applnote_9'></a>
 > If the action doesn’t guarantee an outcome, why should I work, or give my 100% to achieve a goal?
 
-## [hEtu] - The reason
+## हेतु [hEtu] - The reason
 
 The ‘reason for’ something can be a cause that triggers it.
 The motivation for desired outcomes can also be the 'reason' for doing something.
 
 An action relates to you in both ways. However, the outcome of an action doesn’t happen for your purpose. You aren’t the only cause behind an outcome either. Krishna says this in [His famous shloka, 2-47](2-47.md)
 
-## [dharma] – That which uplifts
+## धर्म [dharma] – That which uplifts
 
 It is the first word in the Gita and appears many times in the epic. Often, it's translated to mean 'righteousness', which gives the impression that there is always 'one right thing'. 
 
@@ -130,12 +130,8 @@ In all of this,
 `धर्म` `[dharma]`
  relates to the purpose. Your purpose 'uplifts' you in varying degrees- cooking for the love of cooking may be more uplifting than just doing it for someone else. On the other hand, if you're doing it for someone whom you adore, that may be more uplifting than doing it for yourself.
 
-
-
 <a name='applnote_10'></a>
 > Look beyond desire. Focus on the purpose even when you don’t reach the goal you expect.
-
-
 
 With this example, I know the meaning of 
 `धर्म` `[dharma]`
@@ -143,7 +139,7 @@ With this example, I know the meaning of
 
 The problem of purpose appears again and again in the Mahabharata. The resolution is also consistently stated each time: Look beyond desires. Focus on purpose and don't go behind outcomes. Have the Lord as your purpose and worship Him. At this point, there doesn’t seem to be a logical link from the ‘problem of purpose’ to the ‘resolution by worship’. That’s the journey of the Gita.
 
-## [yajna] - An act of worship
+## यज्ञ	[yajJa] - An act of worship
 
 To ‘worship’ is to ‘honor and adore’. Doing this consciously means doing it according to a procedure. Though the word 
 `यज्ञ` `[yajJa]`
@@ -152,7 +148,7 @@ To ‘worship’ is to ‘honor and adore’. Doing this consciously means doing
 <a name='applopener_11'></a>
 > Is there a different way?
 
-## [mOksha] - The joy of liberation
+## मोक्ष [mokSa] - The joy of liberation
 
 Moksha is to be free of all limitations. 
 
@@ -175,20 +171,21 @@ Let’s examine a few more words before we get started with the Bhagavad-Gita.
 
 <a name='beginningless_time'></a>
 
-## [anAdi kAla] - Beginning-less time
+## अनादि काल [anAdi kAla] - Beginning-less time
 
 It's the time that spans across cycles of creation and destruction. It has no beginning. As opposed to this, the ‘normal’ time is the one we experience, which starts with the
 [creation of this universe](13-5 to 13-6.md#CosmicInflation_stages)
 
-## [vishEShaNa] - Attribute
+## विशेषण [vizeSaNa] - Attribute
 
 An attribute is a property that cannot exist on its own. For example, 'red color' is an attribute of blood: the attribute of 'redness' cannot exist on its own: there has to be an object that shows up as red, for the attribute to exist. Likewise, we and our universe are attributes of the Lord.
 
-## [mana:] - The mind
+## मनस् [manas] - The mind amd its imagination
 
 The mind is an instrument for the Self to experience this universe. Understanding, perception, intelligence and cognition come from the mind.
+Imagination is its function - it's about making an image from all our perceptions.
 
-## [buddhi] - The intellect 
+## बुद्धि [buddhi] - The intellect 
 
 The intellect gives the ability to reason and distinguish.
 
