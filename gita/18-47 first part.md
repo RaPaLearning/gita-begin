@@ -20,7 +20,7 @@ When you work as described before -
 'your own work' means 
 [your initiative](intention_initiation)
  - not what you or others think you should be doing; not anything that 
-[happened](happenings)
+[happened](14-19.md#happenings)
 , nor anything that’s going to.
 
 Work that's performed in this manner takes the form of [

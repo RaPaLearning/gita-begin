@@ -30,8 +30,7 @@ By being the owner, by repelling all that's undesirable, by being pure prosperit
 [free from all bondage](Moksha)
  after its bonds with the material environment are cut off. 
 
-Attachment to things that 
-[happen](happenings)
+Attachment to [happenings](14-19.md#happenings)
  in the material environment become the bonds that bind the Self. The sword of detachment is used to cut these bonds. To describe this magnificent possession of the Lord, He illustrates this attachment as a pepal tree with its roots at the top - the attachment must be cut.
 
 
