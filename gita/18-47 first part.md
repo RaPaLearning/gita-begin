@@ -18,7 +18,7 @@ When you work as described before -
  possessiveness, outcomes and the misconception of making things happen - it takes the form of My worship. The phrase 'your own work' is the work that can be initiated by you, in your present space.
 
 'your own work' means 
-[your initiative](intention_initiation)
+[your initiative](13-20.md#intention_initiation)
  - not what you or others think you should be doing; not anything that 
 [happened](14-19.md#happenings)
 , nor anything that’s going to.
