@@ -46,9 +46,27 @@ def mds_to_notes():
     return md_note_ids, notes
 
 
+def mark_prior_next_note(md_note_ids):
+    md_prior_next_notes = {}
+    def link_in_seq(link_name, link_index, md_note_ids_seq):
+        link = ''
+        for md_notes in md_note_ids_seq:
+            for md_filename, notes in md_notes.items():
+                if md_filename not in md_prior_next_notes:
+                    md_prior_next_notes[md_filename] = {}
+                md_prior_next_notes[md_filename][link_name] = link
+                if len(notes) > 0:
+                    link = notes[link_index]
+    link_in_seq('prior', -1, md_note_ids)
+    link_in_seq('next', 0, reversed(md_note_ids))
+    return md_prior_next_notes
+
+
 if __name__ == '__main__':
     md_to_note_ids_compiled, notes_compiled = mds_to_notes()
     with open('md_to_note_ids_compiled.json', 'w', encoding="utf8") as md_notes_file:
         json.dump(md_to_note_ids_compiled, md_notes_file)
     with open('notes_compiled.json', 'w', encoding="utf8") as notes_file:
         json.dump(notes_compiled, notes_file)
+    with open('md_prior_next_note.json', 'w', encoding="utf8") as prior_next_file:
+        json.dump(mark_prior_next_note(md_to_note_ids_compiled), prior_next_file)

@@ -1,6 +1,6 @@
 import unittest
 from os import path
-from compile_notes import toc_to_filenames, md_to_annotations, mds_to_notes, md_path
+from compile_notes import toc_to_filenames, md_to_annotations, mds_to_notes, md_path, mark_prior_next_note
 
 
 class CompileNotesTest(unittest.TestCase):
@@ -47,7 +47,7 @@ Here is an apostrophe
         self.assertEqual(annotations['notes'][0]['note_id'], 'applnote_13')
         self.assertEqual(annotations['notes'][0]['text'], 'We often doubt and worry.')
         self.assertEqual(annotations['notes'][1]['note_id'], 'applnote_14')
-        self.assertEqual(annotations['notes'][1]['text'], 'In our anxiety, we interpret anything that happens as a signal of doom')
+        self.assertEqual(annotations['notes'][1]['text'], 'In our anxiety, we interpret anything that happens as a signal of doom.')
         self.assertEqual(annotations['notes'][2]['text'], 'Look beyond desire. Focus on the purpose even when you don’t reach the goal you expect.')
     def test_md_opener_to_annotation(self):
         annotation = md_to_annotations('''
@@ -63,14 +63,30 @@ in the journey of inquiry and don't get anxious about answers.
         self.assertEqual(annotation['notes'][0]['text'], 'Who am I?')
 
     def test_gita_mds_to_annotations(self):
+        md_note_ids, notes = mds_to_notes()
         def md_file_in_line(line):
             line = line.strip()
             return 1 if len(line) > 0 and '.md' in line else 0
-        md_note_ids, notes = mds_to_notes()
         with open(path.join(md_path, 'toc.md'), 'r', encoding="utf8") as toc_file:
             md_file_count = sum([md_file_in_line(line) for line in toc_file])
         self.assertEqual(len(md_note_ids), md_file_count)
-        self.assertGreater(len(notes), 200)
+        self.assertEqual(len(notes), 215+23)
+
+    def test_prior_next_note(self):
+        md_note_ids = [
+            {"2-15.md": ["applnote_28"]}, {"2-16.md": ["applopener_29", "applnote_30"]}, {"2-17.md": []}, {"2-18.md": []},
+            {"2-19.md": ["applnote_33"]}, {"Chapter 2.md": []}
+        ]
+        prior_nexts = mark_prior_next_note(md_note_ids)
+        def assert_prior_next(md_filename, expected_prior, expected_next):
+            self.assertEqual(prior_nexts[md_filename]['prior'], expected_prior)
+            self.assertEqual(prior_nexts[md_filename]['next'], expected_next)
+        assert_prior_next('2-15.md', '', 'applopener_29')
+        assert_prior_next('2-16.md', 'applnote_28', 'applnote_33')
+        assert_prior_next('2-17.md', 'applnote_30', 'applnote_33')
+        assert_prior_next('2-18.md', 'applnote_30', 'applnote_33')
+        assert_prior_next('2-19.md', 'applnote_30', '')
+        assert_prior_next('Chapter 2.md', 'applnote_33', '')
 
 
 unittest.main()
