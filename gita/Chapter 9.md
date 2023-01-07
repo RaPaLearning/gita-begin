@@ -13,7 +13,7 @@ This chapter explores the greatness of the Lord- He is the objective of any wors
 
 
 <a name='applopener_143'></a>
-> Worship the Lord with devotion
+> Worship the Lord with devotion.
 
 
 

@@ -49,12 +49,12 @@ Further, it is stated in the
 <a name='bhakti_a_defn'></a>
 
 <a name='applnote_116'></a>
-> Worship is an uninterrupted chain of thought
+> Worship is an uninterrupted chain of thought.
 
 By the emphasis laid here, we see that worship is the uninterrupted chain of thought, which makes a person obtain the blessings of the Lord. Since the object of worship is so adorable, the chain of thought called worship itself is lovely. 
 
 <a name='applnote_117'></a>
-> Devotion is to worship with friendship
+> Devotion is to worship with friendship.
 
 This is called bhakti: 'When the uninterrupted chain of thought is filled with friendship, it is called bhakti' -as stated in [laingapurANa,uttarabhAga:].
 

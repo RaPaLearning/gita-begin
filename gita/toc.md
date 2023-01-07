@@ -740,7 +740,7 @@
 
 [11-39 part 1](11-39 part 1.md)
 
-[11-39 part 2 – 40 part 1](11-39 part 2 – 40 part 1.md)
+[11-39 part 2 - 40 part 1](11-39 part 2 - 40 part 1.md)
 
 [11-40 part 2](11-40 part 2.md)
 

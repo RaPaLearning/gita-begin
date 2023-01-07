@@ -18,7 +18,7 @@ It was also stated that devotion is effective in achieving great wealth in this 
 
 
 <a name='applopener_174'></a>
-> Devotion in this world
+> Devotion in this world.
 
 
 

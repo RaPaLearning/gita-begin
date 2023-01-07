@@ -24,7 +24,7 @@ Next, The Lord states that His worship in the form of
 
 
 <a name='applopener_167'></a>
-> Let’s devote ourselves to the Lord
+> Let’s devote ourselves to the Lord.
 
 
 
