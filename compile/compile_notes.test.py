@@ -39,16 +39,19 @@ Here is an apostrophe
 <a name='applnote_10'></a>
 > Look beyond desire. Focus on the purpose even when you don’t reach the goal you expect.
 
-''')
+''', 'a_file.md')
         self.assertEqual(len(annotations['note_ids']), 3)
         self.assertEqual(annotations['note_ids'][0], 'applnote_13')
         self.assertEqual(annotations['note_ids'][1], 'applnote_14')
         self.assertEqual(len(annotations['notes']), 3)
         self.assertEqual(annotations['notes'][0]['note_id'], 'applnote_13')
         self.assertEqual(annotations['notes'][0]['text'], 'We often doubt and worry.')
+        self.assertEqual(annotations['notes'][0]['file'], 'a_file.md')
         self.assertEqual(annotations['notes'][1]['note_id'], 'applnote_14')
         self.assertEqual(annotations['notes'][1]['text'], 'In our anxiety, we interpret anything that happens as a signal of doom.')
         self.assertEqual(annotations['notes'][2]['text'], 'Look beyond desire. Focus on the purpose even when you don’t reach the goal you expect.')
+        self.assertEqual(annotations['notes'][2]['file'], 'a_file.md')
+
     def test_md_opener_to_annotation(self):
         annotation = md_to_annotations('''
 in the journey of inquiry and don't get anxious about answers.
@@ -56,11 +59,12 @@ in the journey of inquiry and don't get anxious about answers.
 <a name='applopener_1'></a>
 > Who am I?
 
-## आत्म [Atma] - The Self''')
+## आत्म [Atma] - The Self''', 'another_file.md')
         self.assertEqual(len(annotation['note_ids']), 1)
         self.assertEqual(annotation['note_ids'][0], 'applopener_1')
         self.assertEqual(annotation['notes'][0]['note_id'], 'applopener_1')
         self.assertEqual(annotation['notes'][0]['text'], 'Who am I?')
+        self.assertEqual(annotation['notes'][0]['file'], 'another_file.md')
 
     def test_gita_mds_to_annotations(self):
         md_note_ids, notes = mds_to_notes()
@@ -71,6 +75,7 @@ in the journey of inquiry and don't get anxious about answers.
             md_file_count = sum([md_file_in_line(line) for line in toc_file])
         self.assertEqual(len(md_note_ids), md_file_count)
         self.assertEqual(len(notes), 215+23)
+        self.assertIsNotNone(notes[0]["file"])
 
     def test_prior_next_note(self):
         md_note_ids = [

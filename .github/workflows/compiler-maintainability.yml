@@ -1,4 +1,4 @@
-name: Build and Run
+name: Ensure compiler maintainability
 
 on: [push, pull_request]
 

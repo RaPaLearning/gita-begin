@@ -19,13 +19,13 @@ def spell_check(text):
             print(f'**check spelling: {word}')
 
 
-def md_to_annotations(mdtext):
+def md_to_annotations(mdtext, md_filename):
     annotations = {}
     note_contents = re.findall(r"<a name='([\w]+)'><\/a>\s>(.*?)$", mdtext, re.MULTILINE)
     annotations['note_ids'] = [c[0] for c in note_contents]
     for text in [c[1] for c in note_contents]:
         spell_check(text)
-    annotations['notes'] = [{'note_id': c[0], 'text': c[1].strip()} for c in note_contents]
+    annotations['notes'] = [{'note_id': c[0], 'text': c[1].strip(), 'file': md_filename} for c in note_contents]
     return annotations
 
 
@@ -40,7 +40,7 @@ def mds_to_notes():
     notes = []
     for md_filename in filenames:
         with open(path.join(md_path, md_filename), encoding="utf8") as mdfile:
-            annotations = md_to_annotations(mdfile.read())
+            annotations = md_to_annotations(mdfile.read(), md_filename)
             md_note_ids.append({md_filename: annotations['note_ids']})
             notes.extend(annotations['notes'])
     return md_note_ids, notes
