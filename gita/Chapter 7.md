@@ -1,4 +1,3 @@
-<a name='_Toc488528598'></a>
 # Chapter 7
 
 In the first volume (Chapter 1 to Chapter 6), Lord Krishna described the way to realize the Self. This realization is an accessory in the service of the Lord. It is achieved by 

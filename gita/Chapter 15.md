@@ -1,6 +1,6 @@
-<a name='_Provoking_thought'></a>
 # Chapter 15
 
+<a name='_Provoking_thought'></a>
 
 The 13th chapter clarified the environment as the 
 [field of action](13-1.md#field_and_knower_of_field)

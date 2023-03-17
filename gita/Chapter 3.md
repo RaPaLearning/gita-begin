@@ -1,4 +1,3 @@
-<a name='_Chapter_3'></a>
 # Chapter 3
 
 
