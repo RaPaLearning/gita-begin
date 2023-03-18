@@ -17,11 +17,7 @@ When you work as described before -
 [by leaving](letting_go)
  possessiveness, outcomes and the misconception of making things happen - it takes the form of My worship. The phrase 'your own work' is the work that can be initiated by you, in your present space.
 
-'your own work' means 
-[your initiative](13-20.md#intention_initiation)
- - not what you or others think you should be doing; not anything that 
-[happened](14-19.md#happenings)
-, nor anything that’s going to.
+_'your own work' means [your initiative](13-20.md#intention_initiation) - not what you or others think you should be doing; not anything that [happened](14-19.md#happenings), nor anything that’s going to._
 
 Work that's performed in this manner takes the form of [
 [karmayOga](karmayOga_a_defn)
