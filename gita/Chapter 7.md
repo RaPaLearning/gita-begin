@@ -15,7 +15,7 @@ Chap.18#46: Any human being attains the goal by worshipping The Lord with his ow
 Chap.18#54: Having realized the Self, with a serene mind, he doesn't get upset and doesn't yearn. Such a person has equanimity among all beings. He attains the ultimate devotion to Me.
 
 These two Shlokas summarized the achievement of 
-[devotion](Chapter 7.md#bhakti_a_defn).
+[devotion](Chapter%207.md#bhakti_a_defn).
 
 Service to the Lord can be a means to achieve Him, only when it takes the form of devotion - as stated in the following sentences of the Vedanta:
 
@@ -66,7 +66,4 @@ The
 Chap.11#53, Chap.11#54: The Lord says through these Shlokas: 'Not through the Vedas, not even by penance, not by donating things, not by performing sacrifice - it is not possible to see Me in the way that you do. Arjuna, through devotion alone, it is possible to know Me like this, to see Me in My true form and finally go into Me.
 
 Here, the seventh chapter describes the true form of Lord, who is to be worshipped in this way. It describes that the Lord's form is concealed by the environment ('environment' includes our body). It speaks about seeking refuge in the Lord to shake off this ignorance. Then, the four types of people who render service to the Lord are described along with the special characteristics of 
-[those who know](jnAnI)
-.
-
-
+[those who know](jnAnI).
