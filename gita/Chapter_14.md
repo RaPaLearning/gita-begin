@@ -13,7 +13,7 @@ With these virtues,
 
 The cause of the bond with the material world was also stated - the bond is due to our desires, such as our craving for happiness. The 
 [three qualities](2-45_to_2-46.md#satva_rajas_tamas)
- soak the desires of the material world with their influence. This was told in Chap.13#21: 'The Self is bound to the environment due to its association with the 
+ soak the desires of the material world with their influence. This was told in [13-21](13-21_first_part.md): 'The Self is bound to the environment due to its association with the 
 [three qualities](2-45_to_2-46.md#satva_rajas_tamas)
  in births that came from virtue and flaws'.
 

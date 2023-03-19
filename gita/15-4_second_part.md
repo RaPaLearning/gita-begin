@@ -24,13 +24,13 @@ yataH pravRttiH prasRtA purANI || 4 ||
 
 To get rid of ignorance, we must 
 [surrender](7-19.md#Sharanagati)
- to that very Person who is the origin of everything - 'that very Person' is the Lord - He described Himself in Chap.9#10: ‘The material environment guides this world according to My will, I being the supreme controller’, in Chap.10#8: ‘I am the origin of everything; Each and every entity gets stimulated with the initiative given by Me’ and in Chap.7#7: ‘There is absolutely nothing else that is superior to Me’.
+ to that very Person who is the origin of everything - 'that very Person' is the Lord - He described Himself in [9-10](9-10.md): ‘The material environment guides this world according to My will, I being the supreme controller’, in [10-8](10-8.md): ‘I am the origin of everything; Each and every entity gets stimulated with the initiative given by Me’ and in [7-7](7-7.md): ‘There is absolutely nothing else that is superior to Me’.
 
 In the entire created universe, ‘binding activities’ spring forth from the Lord. These binding activities are full of the 
 [three qualities](14-22.md#satva_rajas_tamas_effects)
  and attachment to experiences. 
 
-The fact that the Lord is the origin and that we must surrender to Him was described by the Lord Himself previously, in Chap.7#14: ‘'These divine creations of Mine are pervaded by the 
+The fact that the Lord is the origin and that we must surrender to Him was described by the Lord Himself previously, in [7-14](7-14.md): ‘'These divine creations of Mine are pervaded by the 
 [three qualities](2-45_to_2-46.md#satva_rajas_tamas)
 . They are indeed impossible to cross over. The people who 
 [surrender](7-19.md#Sharanagati)

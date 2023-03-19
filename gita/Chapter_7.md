@@ -10,9 +10,9 @@ Till now, the true nature of the Self, along with the means to realize it was de
 
 In this middle volume (chapter 7 to chapter 12) the nature of the Supreme Lord and His worship, also called bhakti, are described. Several testimonies from the scriptures describe this worship, starting with:
 
-Chap.18#46: Any human being attains the goal by worshipping The Lord with his own work.
+[18-46](18-46.md): Any human being attains the goal by worshipping The Lord with his own work.
 
-Chap.18#54: Having realized the Self, with a serene mind, he doesn't get upset and doesn't yearn. Such a person has equanimity among all beings. He attains the ultimate devotion to Me.
+[18-54](18-54.md): Having realized the Self, with a serene mind, he doesn't get upset and doesn't yearn. Such a person has equanimity among all beings. He attains the ultimate devotion to Me.
 
 These two Shlokas summarized the achievement of 
 [devotion](Chapter_7.md#bhakti_a_defn).
@@ -63,7 +63,7 @@ The
 `पुरुष सूक्त` `[puruSa sUkta]`
  says: 'By knowing Him alone, a person attains moksha. There is no other way to the goal'
 
-Chap.11#53, Chap.11#54: The Lord says through these Shlokas: 'Not through the Vedas, not even by penance, not by donating things, not by performing sacrifice - it is not possible to see Me in the way that you do. Arjuna, through devotion alone, it is possible to know Me like this, to see Me in My true form and finally go into Me.
+[11-53, 11-54](11-53_to_11-54.md): The Lord says through these Shlokas: 'Not through the Vedas, not even by penance, not by donating things, not by performing sacrifice - it is not possible to see Me in the way that you do. Arjuna, through devotion alone, it is possible to know Me like this, to see Me in My true form and finally go into Me.
 
 Here, the seventh chapter describes the true form of Lord, who is to be worshipped in this way. It describes that the Lord's form is concealed by the environment ('environment' includes our body). It speaks about seeking refuge in the Lord to shake off this ignorance. Then, the four types of people who render service to the Lord are described along with the special characteristics of 
 [those who know](7-16.md#jnAnI).

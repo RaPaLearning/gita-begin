@@ -1,4 +1,4 @@
-## 13-21, second part
+## 13-21 second part
 
 
 ```shloka-sa
@@ -26,7 +26,7 @@ It keeps cycling in the material world, till the time it cultivates
 [virtues](13-7.md#virtues_amanitvam)
  that lead to Self-awareness. 
 [Virtues](13-7.md#virtues_amanitvam)
- such as humility lead to Self-awareness (described in Chap.13#7-11). 
+ such as humility lead to Self-awareness (described in [13-7](13-7.md)-11). 
 
 In this way, the Self is bound to the material world. It happens due to its association with the 
 [three qualities](2-45_to_2-46.md#satva_rajas_tamas)

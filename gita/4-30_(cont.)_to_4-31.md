@@ -19,6 +19,6 @@ The previous Shlokas described various kinds of people who work without being dr
 [worship](3-9.md#yajna)
  with material things and went on to describe those who practice the technique of breath-control. All of them involve in activities that suit them best. All of them know the forms of worship that are done as part of daily life. By practicing these forms of worship with devotion, they have been rid of their faults.
 
-In turn, these forms of worship lead to the great ways of worship mentioned in the Shlokas starting with ‘The Lord created living beings along with various forms of worship’ (Chap.3#10). All these people support the existence of their bodies using the residue of worship. In this way, they work without being driven by attachments. All of them reach the ever-present Lord.
+In turn, these forms of worship lead to the great ways of worship mentioned in the Shlokas starting with ‘The Lord created living beings along with various forms of worship’ ([3-10](3-10.md)). All these people support the existence of their bodies using the residue of worship. In this way, they work without being driven by attachments. All of them reach the ever-present Lord.
 
 

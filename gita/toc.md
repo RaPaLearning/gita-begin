@@ -842,9 +842,9 @@
 
 [13-20](13-20.md)
 
-[13-21, first part](13-21,_first_part.md)
+[13-21, first part](13-21_first_part.md)
 
-[13-21, second part](13-21,_second_part.md)
+[13-21, second part](13-21_second_part.md)
 
 [13-22](13-22.md)
 
