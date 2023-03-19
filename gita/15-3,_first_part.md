@@ -20,7 +20,7 @@ In the previous Shloka, the material world was described as a tree. Its roots re
 Its branches have further spread upwards and downwards based on the activities of humans. This form of the material world is not apparent to people who are bound in it. Mere facts are apparent to us, such as 'I am a human', 'I am born to my parents', 'I am the parent of my children' and 'I transact and experience the world accordingly'.
 
 We cannot see its end either - it's not apparent that this tree is cut off by the absence of attachment towards material experiences. Attachments are full of the 
-[three qualities](satva_rajas_tamas_effects)
+[three qualities](14-22.md#satva_rajas_tamas_effects)
 . It is not apparent that ignorance is the basis of its continued existence. Ignorance is the consideration that our body is the Self.
 
 

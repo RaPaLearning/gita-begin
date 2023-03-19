@@ -2,7 +2,7 @@
 
 
 The Lord is the goal of those who seek 
-[liberation](Moksha)
+[liberation](Back-to-Basics.md#Moksha)
 . The Lord has been described as a repository of an infinite amount of endless virtues, repelling every kind of misfortune. Attaining the Lord is all about supreme devotion, variously called by terms such as worship and meditation. 
 
 The Lord has been described as ‘The Self that relieves every Self of its misfortune’ in 

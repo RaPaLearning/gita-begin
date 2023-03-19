@@ -1,7 +1,7 @@
 # Chapter 7
 
 In the first volume (Chapter 1 to Chapter 6), Lord Krishna described the way to realize the Self. This realization is an accessory in the service of the Lord. It is achieved by 
-[working](karmayoga)
+[working](2-40.md#karmayoga)
  purely as worship to the Lord, without being driven by desire. Such work has the knowledge of the Self embedded in it. 
 
 Worship is the means to reach Lord Narayana, who is always present with Lakshmi, who alone is the creator of the universe, who is flawless, who knows everything, who is present in all beings, whose will is always realized, who pervades everything and is beyond the perception of our sense organs. 
@@ -23,7 +23,7 @@ Service to the Lord can be a means to achieve Him, only when it takes the form o
  ‘A person overcomes the cycle of deaths only by knowing Him’
 
 `पुरुश सूक्त` `[puruza sUkta]` :
- ‘Knowing Him alone, a person attains [moksha](Moksha)’
+ ‘Knowing Him alone, a person attains [moksha](Back-to-Basics.md#Moksha)’
 
 And further:
 
@@ -33,7 +33,7 @@ And further:
 
 `छन्दोग्य उपनिशत्` `[chandogya upanizat]` , 7-26-2:
  Once purified (from desire, anger and laziness), we think of the Lord constantly. By meeting the memory of the Lord, we are freed from all things that mislead us. Then we will achieve 
-[moksha](Moksha)
+[moksha](Back-to-Basics.md#Moksha)
 . 
 
 `मुंडक` `[muMDaka]` , 2-2-8:
@@ -66,4 +66,4 @@ The
 Chap.11#53, Chap.11#54: The Lord says through these Shlokas: 'Not through the Vedas, not even by penance, not by donating things, not by performing sacrifice - it is not possible to see Me in the way that you do. Arjuna, through devotion alone, it is possible to know Me like this, to see Me in My true form and finally go into Me.
 
 Here, the seventh chapter describes the true form of Lord, who is to be worshipped in this way. It describes that the Lord's form is concealed by the environment ('environment' includes our body). It speaks about seeking refuge in the Lord to shake off this ignorance. Then, the four types of people who render service to the Lord are described along with the special characteristics of 
-[those who know](jnAnI).
+[those who know](7-16.md#jnAnI).

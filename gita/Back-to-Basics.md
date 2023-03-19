@@ -148,6 +148,8 @@ To ‘worship’ is to ‘honor and adore’. Doing this consciously means doing
 <a name='applopener_11'></a>
 > Is there a different way?
 
+<a name='Moksha'></a>
+
 ## मोक्ष [mokSa] - The joy of liberation
 
 Moksha is to be free of all limitations. 
@@ -165,7 +167,7 @@ It isn’t necessary to have expectations whenever we initiate something. In fac
 What if there is a purpose that we’re always meant to achieve? What if any initiative towards that purpose was never to fail? What if that purpose is easy and always delightful, no matter how many times it’s repeated, no matter how much criticism happens? Being in such a purpose is the ultimate liberty. That purpose is the Lord. Achievement of that purpose is Moksha.
 
 Those who are in this purpose 
-[are not driven](karmayoga) by the world.
+[are not driven](2-40.md#karmayoga) by the world.
 
 Let’s examine a few more words before we get started with the Bhagavad-Gita.
 

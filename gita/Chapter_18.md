@@ -1,13 +1,13 @@
 # Chapter 18
 
 The previous two chapters spoke about activities like worship, discipline and charity - as specified in the Vedas. They explained that the achievements in this world, as well as supreme joy (
-[Moksha](Moksha)
+[Moksha](Back-to-Basics.md#Moksha)
 ) come from such activities, not from other sources. 
 
 All these activities are associated with the sound of 'Om', which is about a higher purpose. It is the common characteristic of all activities in the Vedas. 
 
 The words 'tat' and 'sat' give the distinction between the achievement of Moksha and the achievements in this world. Activities like worship lead to Moksha, when they are not bogged down by expectations. Such activities commence in an abundance of 
-[sattva](sattva)
+[sattva](14-6.md#sattva)
 . This quality is enhanced by nurturing the body with food that’s made in the quality of sattva.
 
 Next, this chapter explains that 
@@ -15,17 +15,17 @@ Next, this chapter explains that
  - 'letting go' and 
 `संन्यास` `[saMnyAsa]`
  - 'renunciation' are synonymous. Their purpose is to achieve Moksha. It goes on to describe the characteristics of 'letting go', which is the scheme of placing all 
-[transactions](kartrtva_transaction)
+[transactions](13-20.md#kartrtva_transaction)
  in the Supreme Lord. 
 
 This chapter also describes the effects of 
-[sattva](sattva)
+[sattva](14-6.md#sattva)
 , 
-[rajas](rajas)
+[rajas](14-7.md#rajas)
  and 
-[tamas](tamas)
+[tamas](14-8.md#tamas)
  and the inevitable excellence of 
-[sattva](sattva)
+[sattva](14-6.md#sattva)
 . It illustrates the way to achieve of the Lord with activities that are natural to us. We worship the Lord with our normal activity. 
 
 These Shlokas state that 

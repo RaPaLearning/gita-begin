@@ -16,7 +16,7 @@ It was also stated that
 Next, The Lord states that His worship in the form of 
 [devotion](Chapter_7.md#bhakti_a_defn)
  is superior in comparison to the 
-[quest for the Self](jnAnayOga_a_defn)
+[quest for the Self](3-3.md#jnAnayOga_a_defn)
 . The superiority of 
 [devotion](Chapter_7.md#bhakti_a_defn)
  lies in the speed of realizing its goal, in the ease and in the simplicity of its practice. 
@@ -31,7 +31,7 @@ Next, The Lord states that His worship in the form of
 This chapter describes the practice of the Lord’s worship along with its accessories. It also describes the quest of the Self for people who are incapable of worship. 
 
 The Lord's worship is indeed superior - this is by virtue of the Lord's superiority, as said in 
-[Chap.6#47](_47)
+[6-47](6-47.md)
 : ‘The person who worships Me, having placed himself within Me with complete trust - I consider him to be the most focused, even in comparison to all those who persevere to realize the Self’.
 
 

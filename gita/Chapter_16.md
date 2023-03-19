@@ -5,9 +5,9 @@ The preceding three chapters illustrated many facts.
 They gave the distinction between the environment and the Self;
 
 They described their true characteristics when they are separate and when they are combined - The fact that their combination comes from attachment to the 
-[three qualities](satva_rajas_tamas)
+[three qualities](2-45_to_2-46.md#satva_rajas_tamas)
  and that their separation is given by detachment from these 
-[qualities](satva_rajas_tamas_effects)
+[qualities](14-22.md#satva_rajas_tamas_effects)
 ;
 
 They stated that the environment and the Self belong to the Lord in all states of existence;
