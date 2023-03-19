@@ -15,7 +15,7 @@ Chap.18#46: Any human being attains the goal by worshipping The Lord with his ow
 Chap.18#54: Having realized the Self, with a serene mind, he doesn't get upset and doesn't yearn. Such a person has equanimity among all beings. He attains the ultimate devotion to Me.
 
 These two Shlokas summarized the achievement of 
-[devotion](Chapter 7.md#bhakti_a_defn).
+[devotion](Chapter_7.md#bhakti_a_defn).
 
 Service to the Lord can be a means to achieve Him, only when it takes the form of devotion - as stated in the following sentences of the Vedanta:
 

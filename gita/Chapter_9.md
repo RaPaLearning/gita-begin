@@ -7,7 +7,7 @@ In the previous chapter, The Lord described the
 This chapter explores the greatness of the Lord- He is the objective of any worship. It also explores the specialty of the devotee - 
 [the one who knows](jnAnI)
 . After that, the Lord describes the characteristics of worship, which is called 
-[devotion](Chapter 7.md#bhakti_a_defn)
+[devotion](Chapter_7.md#bhakti_a_defn)
 .
 
 

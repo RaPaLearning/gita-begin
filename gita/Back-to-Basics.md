@@ -174,7 +174,7 @@ Let’s examine a few more words before we get started with the Bhagavad-Gita.
 ## अनादि काल [anAdi kAla] - Beginning-less time
 
 It's the time that spans across cycles of creation and destruction. It has no beginning. As opposed to this, the ‘normal’ time is the one we experience, which starts with the
-[creation of this universe](13-5 to 13-6.md#CosmicInflation_stages)
+[creation of this universe](13-5_to_13-6.md#CosmicInflation_stages)
 
 ## विशेषण [vizeSaNa] - Attribute
 

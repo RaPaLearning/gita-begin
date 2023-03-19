@@ -2,7 +2,7 @@
 
 
 Arjuna wished to see the unbounded expanse of the Lord's pervasive power, which is realized by commitment to 
-[devotion](Chapter 7.md#bhakti_a_defn)
+[devotion](Chapter_7.md#bhakti_a_defn)
 . The Lord showed him this power in its entirety. 
 
 Though the human senses cannot perceive such unbounded power, it was experienced.
@@ -10,15 +10,15 @@ Though the human senses cannot perceive such unbounded power, it was experienced
 This experience was due to the Lord's ability to realize all that He desires. The Lord enabled this experience from His unbroken, unlimited expanse of compassion, generosity, amiable nature and other favorable qualities. 
 
 It was also stated that 
-[single-minded devotion with ultimate love](Chapter 7.md#bhakti_a_defn)
+[single-minded devotion with ultimate love](Chapter_7.md#bhakti_a_defn)
  is the only way to know and see the Lord in His actual form.
 
 Next, The Lord states that His worship in the form of 
-[devotion](Chapter 7.md#bhakti_a_defn)
+[devotion](Chapter_7.md#bhakti_a_defn)
  is superior in comparison to the 
 [quest for the Self](jnAnayOga_a_defn)
 . The superiority of 
-[devotion](Chapter 7.md#bhakti_a_defn)
+[devotion](Chapter_7.md#bhakti_a_defn)
  lies in the speed of realizing its goal, in the ease and in the simplicity of its practice. 
 
 
