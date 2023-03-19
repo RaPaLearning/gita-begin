@@ -2,7 +2,7 @@
 
 1. No leading dash (-) in a line, since it leads to bullets in markdown. They become bullets even when preceded by whitespace.
 
-1. Bookmarks can span a range of text having bookmarks inside. Example: See <a name='bhakti_a_defn'> in [Chapter 7](gita/Chapter 7.md)
+1. Bookmarks can span a range of text having bookmarks inside. Example: See <a name='bhakti_a_defn'> in [Chapter 7](gita/Chapter_7.md)
 
 1. All other Bookmarks need to span a range of text as well, so that it can be shown in a floating window
 
