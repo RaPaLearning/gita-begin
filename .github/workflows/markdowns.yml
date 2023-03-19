@@ -1,9 +1,8 @@
 name: Check markdown files
 
 on:
-  # bring back when you gain control on markdowns
-  # push:
-  #   branches: [ main ]
+  push:
+    branches: [ main ]
   pull_request:
     branches: [ main ]
 
@@ -16,9 +15,11 @@ jobs:
     - name: Use nodejs
       uses: actions/setup-node@v1
       with:
-        node-version: '12.x'
+        node-version: '18.x'
+    - name: Setup link checker
+      run: npm install -g jscpd markdownlint-cli markdown-link-check
 
-    - name: Lint markdowns
-      uses: nosborn/github-action-markdown-cli@v1.1.1
-      with:
-        files: .
+    - name: Check links
+      run: |
+        cd gita
+        markdown-link-check *.md
