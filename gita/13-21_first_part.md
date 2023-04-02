@@ -16,8 +16,7 @@ puruSaH prakRtistho hi bhuGkte prakRtijAn guNAn |
 This Shloka talks about 'the qualities born out of the environment'. 
 
 These are the effects of the 
-[three qualities](2-45_to_2-46.md#satva_rajas_tamas)
- - sattva results in serenity and knowledge, rajas leads to the ‘drive’ that comes from desire and hatred, tamas leads to lethargy. 
+[three qualities](2-45_to_2-46.md#satva_rajas_tamas) - sattva results in serenity and knowledge, rajas leads to the ‘drive’ that comes from desire and hatred, tamas leads to lethargy. 
 
 The natural state of the Self is to experience itself in the form of perpetual pure joy. 
 

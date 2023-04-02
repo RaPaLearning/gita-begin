@@ -11,10 +11,8 @@ The words 'tat' and 'sat' give the distinction between the achievement of Moksha
 . This quality is enhanced by nurturing the body with food that’s made in the quality of sattva.
 
 Next, this chapter explains that 
-`त्याग` `[tyAga]`
- - 'letting go' and 
-`संन्यास` `[saMnyAsa]`
- - 'renunciation' are synonymous. Their purpose is to achieve Moksha. It goes on to describe the characteristics of 'letting go', which is the scheme of placing all 
+`त्याग` `[tyAga]` - 'letting go' and 
+`संन्यास` `[saMnyAsa]` - 'renunciation' are synonymous. Their purpose is to achieve Moksha. It goes on to describe the characteristics of 'letting go', which is the scheme of placing all 
 [transactions](13-20.md#kartrtva_transaction)
  in the Supreme Lord. 
 
