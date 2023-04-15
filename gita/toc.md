@@ -842,9 +842,9 @@
 
 [13-20](13-20.md)
 
-[13-21, first part](13-21_first_part.md)
+[13-21 first part](13-21_first_part.md)
 
-[13-21, second part](13-21_second_part.md)
+[13-21 second part](13-21_second_part.md)
 
 [13-22](13-22.md)
 
@@ -934,9 +934,9 @@
 
 [15-2](15-2.md)
 
-[15-3, first part](15-3,_first_part.md)
+[15-3 first part](15-3_first_part.md)
 
-[15-3, second part and 15-4 first part](15-3,_second_part_and_15-4_first_part.md)
+[15-3 second part and 15-4 first part](15-3_second_part_and_15-4_first_part.md)
 
 [15-4 second part](15-4_second_part.md)
 
@@ -998,9 +998,9 @@
 
 [16-13](16-13.md)
 
-[16-14, first part](16-14,_first_part.md)
+[16-14 first part](16-14_first_part.md)
 
-[16-14; second part](16-14;_second_part.md)
+[16-14 second part](16-14_second_part.md)
 
 [16-15](16-15.md)
 
@@ -1088,9 +1088,9 @@
 
 [18-4](18-4.md)
 
-[18-5, first part ](18-5,_first_part_.md)
+[18-5 first part ](18-5_first_part.md)
 
-[18-5, second part ](18-5,_second_part_.md)
+[18-5 second part ](18-5_second_part.md)
 
 [18-6](18-6.md)
 
