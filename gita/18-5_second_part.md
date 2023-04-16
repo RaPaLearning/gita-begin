@@ -1,4 +1,4 @@
-## 18-5, second part 
+## 18-5 second part 
 
 
 ```shloka-sa

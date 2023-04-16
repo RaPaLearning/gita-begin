@@ -1,4 +1,4 @@
-## 16-14; second part
+## 16-14 second part
 
 
 ```shloka-sa

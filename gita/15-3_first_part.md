@@ -1,4 +1,4 @@
-## 15-3, first part
+## 15-3 first part
 
 
 ```shloka-sa
