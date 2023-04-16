@@ -17,7 +17,7 @@ jobs:
       with:
         node-version: '18.x'
     - name: Setup link checker
-      run: npm install -g jscpd markdownlint-cli markdown-link-check
+      run: npm install -g jscpd markdownlint-cli markdown-link-check@3.10.3
 
     - name: Check links
       run: |
