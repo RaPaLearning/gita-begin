@@ -41,7 +41,7 @@ Let's use the term 'Self' to refer to that which gives rise to 'consciousness'. 
 
 <a name='karmayOga_a_defn'></a>
 
-## योग [yOga] - To associate, gain and realize
+## योग [yOga] - associate,  realize, gain
 
 Yoga is about realization - a journey to get real. To associate facts and observations, gain knowledge and materials required to realize our objective. We commonly use the word 'yoga' to mean the postures and activities that go into realizing the capabilities of our body and mind. This word has a deeper meaning. 
 
@@ -66,7 +66,7 @@ Yoga – be it postures, the forms described above, a study of a science or cont
 
 <a name='actions_and_happenings'></a>
 
-## कर्म [karma] - Action, Activity
+## कर्म [karma] - action, activity
 
 <a name='applnote_7'></a>
 > Our journey in life is a series of activities. Is it about ‘doing’ or ‘making it happen’?
@@ -139,7 +139,7 @@ With this example, I know the meaning of
 
 The problem of purpose appears again and again in the Mahabharata. The resolution is also consistently stated each time: Look beyond desires. Focus on purpose and don't go behind outcomes. Have the Lord as your purpose and worship Him. At this point, there doesn’t seem to be a logical link from the ‘problem of purpose’ to the ‘resolution by worship’. That’s the journey of the Gita.
 
-## यज्ञ	[yajJa] - An act of worship
+## यज्ञ	[yajJa] - worship
 
 To ‘worship’ is to ‘honor and adore’. Doing this consciously means doing it according to a procedure. Though the word 
 `यज्ञ` `[yajJa]`
@@ -150,7 +150,7 @@ To ‘worship’ is to ‘honor and adore’. Doing this consciously means doing
 
 <a name='Moksha'></a>
 
-## मोक्ष [mokSa] - The joy of liberation
+## मोक्ष [mokSa] - liberation
 
 Moksha is to be free of all limitations. 
 
@@ -173,21 +173,21 @@ Let’s examine a few more words before we get started with the Bhagavad-Gita.
 
 <a name='beginningless_time'></a>
 
-## अनादि काल [anAdi kAla] - Beginning-less time
+## अनादि काल [anAdi kAla] - beginning-less time
 
 It's the time that spans across cycles of creation and destruction. It has no beginning. As opposed to this, the ‘normal’ time is the one we experience, which starts with the
 [creation of this universe](13-5_to_13-6.md#CosmicInflation_stages)
 
-## विशेषण [vizeSaNa] - Attribute
+## विशेषण [vizeSaNa] - attribute
 
 An attribute is a property that cannot exist on its own. For example, 'red color' is an attribute of blood: the attribute of 'redness' cannot exist on its own: there has to be an object that shows up as red, for the attribute to exist. Likewise, we and our universe are attributes of the Lord.
 
-## मनस् [manas] - The mind amd its imagination
+## मनस् [manas] - mind, imagination
 
 The mind is an instrument for the Self to experience this universe. Understanding, perception, intelligence and cognition come from the mind.
 Imagination is its function - it's about making an image from all our perceptions.
 
-## बुद्धि [buddhi] - The intellect 
+## बुद्धि [buddhi] - intellect 
 
 The intellect gives the ability to reason and distinguish.
 
