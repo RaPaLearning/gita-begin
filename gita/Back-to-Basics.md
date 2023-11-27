@@ -1,6 +1,6 @@
 # Back to Basics
 
-Many words in Sanskrit and English have multiple meanings. Let’s fix an interpretation to frequently encountered words. This interpretation may be different from what we’re accustomed to. If you don’t understand even after reading this, don’t worry. Stay in the journey of inquiry and don’t get anxious about answers.
+_Many words in Sanskrit and English have multiple meanings. Let’s fix an interpretation of frequently encountered words. This interpretation may be different from what we’re accustomed to. If you don’t understand even after reading this, don’t worry. Stay in the journey of inquiry and don’t get anxious about answers._
 
 <a name='applopener_1'></a>
 > Who am I?
