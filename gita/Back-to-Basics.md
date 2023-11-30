@@ -7,59 +7,59 @@ _Many words in Sanskrit and English have multiple meanings. Let’s fix an inter
 
 ## आत्म [Atma] - The Self
 
-As the Lord Himself states, it isn't possible to describe the 
+_As the Lord Himself states, it isn't possible to describe the 
 `आत्म` `[Atma]`
  in speech, nor is it possible to understand it using the intellect. Needless to say, the word 
 `आत्म` `[Atma]`
- is difficult to translate. I have used the word ‘Self’ with an uppercase 'S' as the translation of the word 
-`आत्म` `[Atma]`.
+ is difficult to translate. Here, the word ‘Self’ with an uppercase 'S' is the translation of the word 
+`आत्म` `[Atma]`._
 
-Rather than thinking about the 
+_Rather than thinking about the 
 `आत्म` `[Atma]`
-as a ghostly soul, consider it as being ‘me’. The Self is 'me'. That brings us to the question 'What am I?' Let's start by seeing what the Self isn't.
+as a ghostly soul, consider it as being ‘me’. The Self is 'me'. That brings us to the question 'What am I?' Let's start by seeing what the Self isn't._
 
 <a name='applnote_2'></a>
 > I am not my body, am I?
 
-Am I a body, a walking bundle of cells and chemicals, a machine that keeps responding to stimuli? If that's the case, I would be a different 'me' through my life - the molecules in our body, our shape, size, even our knowledge and memory - none of them are constant through the life of the body. However, I remain 'me' throughout my life even if every aspect of my body gets replaced along the way.
+_Am I a body, a walking bundle of cells and chemicals, a machine that keeps responding to stimuli? If that's the case, I would be a different 'me' through my life - the molecules in our body, our shape, size, even our knowledge and memory - none of them are constant through the life of the body. However, I remain 'me' throughout my life even if every aspect of my body gets replaced along the way._
 
 <a name='applnote_3'></a>
 > I am not just a thought, am I?
 
-Let' go a little deeper. Am I my brain? The brain is part of the nervous system, which routes all stimuli through its circuits. Those circuits are nerve cells insulated from each other by fatty tissue, connected through gaps in the insulation. This is known to be the way memory is built and information is processed.
+_Let' go a little deeper. Am I my brain? The brain is part of the nervous system, which routes all stimuli through its circuits. Those circuits are nerve cells insulated from each other by fatty tissue, connected through gaps in the insulation. This is known to be the way memory is built and information is processed._
 
-There are thoughts in the brain that seem to run on their own. They seem to have an existence independent of external stimuli - something that I hear in my head when I just sit around doing nothing. It's the 'chatterbox center'. Somewhere in the brain, my 'identity' is located, which could be a 'memory of me'. It says things like 'I am short, arrogant, intelligent but lazy' and so on. Do these centers constitute 'me'? Does it cause the experience of 'I exist'?
+_There are thoughts in the brain that seem to run on their own. They seem to have an existence independent of external stimuli - something that I hear in my head when I just sit around doing nothing. It's the 'chatterbox center'. Somewhere in the brain, my 'identity' is located, which could be a 'memory of me'. It says things like 'I am short, arrogant, intelligent but lazy' and so on. Do these centers constitute 'me'? Does it cause the experience of 'I exist'?_
 
-No, these thoughts can change over time while I remain 'me'. If I change my identity, maybe become an active person from a lazy one, do I become a different 'me'? No. When I grow old and lose some memory and other mental faculties, 'I' still exist. The experience of 'I exist' is perhaps part of what's called 'consciousness'.
+_No, these thoughts can change over time while I remain 'me'. If I change my identity, maybe become an active person from a lazy one, do I become a different 'me'? No. When I grow old and lose some memory and other mental faculties, 'I' still exist. The experience of 'I exist' is perhaps part of what's called 'consciousness'._
 
 <a name='applnote_4'></a>
 > What am I? Let’s begin the discovery of the Self and its relation with the Lord.
 
-The current state of the art has not revealed the true nature of our consciousness. What is consciousness made of? Does it follow any laws of conservation? Did it exist when the universe was created? Is it responsible for the awareness and experience of the universe? Are there different types of consciousness?
+_The current state of the art has not revealed the true nature of our consciousness. What is consciousness made of? Does it follow any laws of conservation? Did it exist when the universe was created? Is it responsible for the awareness and experience of the universe? Are there different types of consciousness?_
 
-Let's use the term 'Self' to refer to that which gives rise to 'consciousness'. The Lord begins his conversation with Arjuna by describing the nature of the Self in the second chapter. He then explains the method of realizing it.
+_Let's use the term 'Self' to refer to that which gives rise to 'consciousness'. The Lord begins his conversation with Arjuna by describing the nature of the Self in the second chapter. He then explains the method of realizing it._
 
 <a name='karmayOga_a_defn'></a>
 
 ## योग [yOga] - associate,  realize, gain
 
-Yoga is about realization - a journey to get real. To associate facts and observations, gain knowledge and materials required to realize our objective. We commonly use the word 'yoga' to mean the postures and activities that go into realizing the capabilities of our body and mind. This word has a deeper meaning. 
+_Yoga is about realization - a journey to get real. To associate facts and observations, gain knowledge and materials required to realize our objective. We commonly use the word 'yoga' to mean the postures and activities that go into realizing the capabilities of our body and mind. This word has a deeper meaning._
 
 <a name='applnote_5'></a>
 > Yoga is a journey to discover reality. Every form of yoga leads to the same discovery.
 
-Three forms of yoga are seen in the conversation of the Gita.
+_Three forms of yoga are seen in the conversation of the Gita._
 
-First, the Lord reveals the art of practicing yoga in all our activities. It’s about realizing that we aren't entitled to any outcomes, that the Lord is the enjoyer and the purpose of our actions. This is reality. Practicing this reality is called 
-`कर्मयोग` `[karmayoga]`. 
+_First, the Lord reveals the art of practicing yoga in all our activities. It’s about realizing that we aren't entitled to any outcomes, that the Lord is the enjoyer and the purpose of our actions. This is reality. Practicing this reality is called 
+`कर्मयोग` `[karmayoga]`._
 
-Second, He describes yoga in our thoughts. This is the realization that we are not our body; that the Self exists for the Lord; that The Lord is all-powerful and acts according to His principles. This is real knowledge and its practice is called 
-`ज्ञानयोग` `[jJAnayoga]`.
+_Second, He describes yoga in our thoughts. This is the realization that we are not our body; that the Self exists for the Lord; that The Lord is all-powerful and acts according to His principles. This is real knowledge and its practice is called 
+`ज्ञानयोग` `[jJAnayoga]`._
 
-Third, He talks about practicing yoga in devotion. It is to adore the Lord and have Him in our thoughts always. This is our state of being and our relationship with the Lord. Such practice is called 
-`भक्तियोग` `[bhaktiyoga]`.
+_Third, He talks about practicing yoga in devotion. It is to adore the Lord and have Him in our thoughts always. This is our state of being and our relationship with the Lord. Such practice is called 
+`भक्तियोग` `[bhaktiyoga]`._
 
-Yoga – be it postures, the forms described above, a study of a science or contemplation - each of them is a journey in our understanding of the material universe, our body as a part of the universe, us and our relationship with the Lord. Such understanding comes with equanimity.
+_Yoga – be it postures, the forms described above, a study of a science or contemplation - each of them is a journey in our understanding of the material universe, our body as a part of the universe, us and our relationship with the Lord. Such understanding comes with equanimity._
 
 <a name='applopener_6'></a>
 > What am I doing?
@@ -71,21 +71,21 @@ Yoga – be it postures, the forms described above, a study of a science or cont
 <a name='applnote_7'></a>
 > Our journey in life is a series of activities. Is it about ‘doing’ or ‘making it happen’?
 
-The word 
+_The word 
 `कर्म` `[karma]`
  is used in many contexts, so let’s pick the basic meaning - any activity and any action we initiate is called 
 `कर्म` `[karma]`
-. An ‘action’ is something we do with an intention. Activity happens in the material universe. We experience outcomes.
+. An ‘action’ is something we do with an intention. Activity happens in the material universe. We experience outcomes._
 
-The distinction between actions, activities, happenings, goals and outcomes can be hazy, so let's clarify with an example - Let’s say I intend to call my friend. I initiate the action by picking up the phone and dialing. The action itself is accomplished by the activities of my body. The call is transmitted by electromagnetic waves. My friend needs to receive the call. That's when the call happens. In this manner, I intend to do something and initiate an action. 
+_The distinction between actions, activities, happenings, goals and outcomes can be hazy, so let's clarify with an example - Let’s say I intend to call my friend. I initiate the action by picking up the phone and dialing. The action itself is accomplished by the activities of my body. The call is transmitted by electromagnetic waves. My friend needs to receive the call. That's when the call happens. In this manner, I intend to do something and initiate an action._
 
-Many things need to come together to make the activity 'happen'. Only one of them is 'me'. The belief that I make things happen is not reality. You may remark that none of it would happen unless I initiated the action. That would be right – I am entitled only to an independent intention and an initiation of the action. I don’t make the rest of the story happen, though I can predict what happens in material terms. What I cannot predict is the outcome.
+_Many things need to come together to make the activity 'happen'. Only one of them is 'me'. The belief that I make things happen is not reality. You may remark that none of it would happen unless I initiated the action. That would be right – I am entitled only to an independent intention and an initiation of the action. I don’t make the rest of the story happen, though I can predict what happens in material terms. What I cannot predict is the outcome._
 
-An activity has an outcome that we experience. Let’s take the example ahead- suppose my friend responds cheerfully to my call. Normally I would experience joy. However, if I were under a lot of stress, I may feel envy. Suppose my friend didn't answer my call. I could get frustrated. Or I could simply call later.
+_An activity has an outcome that we experience. Let’s take the example ahead- suppose my friend responds cheerfully to my call. Normally I would experience joy. However, if I were under a lot of stress, I may feel envy. Suppose my friend didn't answer my call. I could get frustrated. Or I could simply call later._
 
-In this way, we initiate an action with some intention. After that, things happen, followed by an outcome in the form of an experience. 
+_In this way, we initiate an action with some intention. After that, things happen, followed by an outcome in the form of an experience. 
 `कर्म` `[karma]`
- is the initiation of the activity. It's not to be mixed up with what actually happens, or with any outcomes encountered along the way.
+ is the initiation of the activity. It's not to be mixed up with what actually happens, or with any outcomes encountered along the way._
 
 These outcomes and experiences form the 'fruit' of the action, called 
 `कर्मफल` `[karmaphala]`
