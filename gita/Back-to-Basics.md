@@ -87,9 +87,9 @@ _In this way, we initiate an action with some intention. After that, things happ
 `कर्म` `[karma]`
  is the initiation of the activity. It's not to be mixed up with what actually happens, or with any outcomes encountered along the way._
 
-These outcomes and experiences form the 'fruit' of the action, called 
+_These outcomes and experiences form the 'fruit' of the action, called 
 `कर्मफल` `[karmaphala]`
-. The results that follow my actions can give me joy or sorrow, depending on my attachment towards the action and its result. An outcome doesn't belong to the action – by doing something, I am not entitled to a particular experience. If I don't recognize this, I tie my activity to my experience and will be bound by it. Such activity wouldn't be liberating anymore, it would be pretty depressing.
+. The results that follow my actions can give me joy or sorrow, depending on my attachment towards the action and its result. An outcome doesn't belong to the action – by doing something, I am not entitled to a particular experience. If I don't recognize this, I tie my activity to my experience and will be bound by it. Such activity wouldn't be liberating anymore, it would be pretty depressing._
 
 <a name='applopener_8'></a>
 > Why am I doing it?
@@ -99,51 +99,51 @@ These outcomes and experiences form the 'fruit' of the action, called
 
 ## हेतु [hEtu] - The reason
 
-The ‘reason for’ something can be a cause that triggers it.
-The motivation for desired outcomes can also be the 'reason' for doing something.
+_The ‘reason for’ something can be a cause that triggers it.
+The motivation for desired outcomes can also be the 'reason' for doing something._
 
-An action relates to you in both ways. However, the outcome of an action doesn’t happen for your purpose. You aren’t the only cause behind an outcome either. Krishna says this in [His famous shloka, 2-47](2-47.md)
+_An action relates to you in both ways. However, the outcome of an action doesn’t happen for your purpose. You aren’t the only cause behind an outcome either. Krishna says this in [His famous shloka, 2-47](2-47.md)_
 
 ## धर्म [dharma] – That which uplifts
 
-It is the first word in the Gita and appears many times in the epic. Often, it's translated to mean 'righteousness', which gives the impression that there is always 'one right thing'. 
+_It is the first word in the Gita and appears many times in the epic. Often, it's translated to mean 'righteousness', which gives the impression that there is always 'one right thing'._
 
-That’s not always the case. For instance, is it right to tolerate the mistakes of our dear ones? Or confront them even at the cost of friendship? Righteousness is indeed confusing, so Yudhishtira asks Bhishma at the end of the war- 'Which 
+_That’s not always the case. For instance, is it right to tolerate the mistakes of our dear ones? Or confront them even at the cost of friendship? Righteousness is indeed confusing, so Yudhishtira asks Bhishma at the end of the war- 'Which 
 `धर्म` `[dharma]`
- do you consider superior?' - implying many righteous behaviors. 
+ do you consider superior?' - implying many righteous behaviors._
 
-Consider 
+_Consider 
 `धर्म` `[dharma]`
  as a purpose that uplifts you. Usually, such an 'uplifting' would liberate you to see an even higher purpose. For instance, let’s say you set out to earn money and achieve your goal legally. This may liberate you to pursue your interests, or it may open opportunities to make even more money. Which 
 `धर्म` `[dharma]`
- you pick is your choice.
+ you pick is your choice._
 
-This brings us to the distinction between goals, means, purpose, expectation and outcomes. 
+_This brings us to the distinction between goals, means, purpose, expectation and outcomes._
 
-Let's take an example - the activity of cooking. The 'goal' is 'what' you're making - a meal, in this case. The 'means' is 'how' you're making it, including the utensils, recipe, and items that go into making the meal. The 'purpose' says 'why' you're doing it. 
+_Let's take an example - the activity of cooking. The 'goal' is 'what' you're making - a meal, in this case. The 'means' is 'how' you're making it, including the utensils, recipe, and items that go into making the meal. The 'purpose' says 'why' you're doing it._
 
-The purpose of cooking could be to eat, to feed your family, to feed guests, to earn money, as a duty or just for the love of cooking. 
+_The purpose of cooking could be to eat, to feed your family, to feed guests, to earn money, as a duty or just for the love of cooking._
 
-The 'expectation' is linked to desire - it's what we want for ourselves from the activity. In this example, while cooking for the family, we could expect appreciation; we could also expect them to simply finish the food. Something happens as an outcome of the activity. Our experience of the outcome depends on how we relate it to our expectations.
+_The 'expectation' is linked to desire - it's what we want for ourselves from the activity. In this example, while cooking for the family, we could expect appreciation; we could also expect them to simply finish the food. Something happens as an outcome of the activity. Our experience of the outcome depends on how we relate it to our expectations._
 
-In all of this, 
+_In all of this, 
 `धर्म` `[dharma]`
- relates to the purpose. Your purpose 'uplifts' you in varying degrees- cooking for the love of cooking may be more uplifting than just doing it for someone else. On the other hand, if you're doing it for someone whom you adore, that may be more uplifting than doing it for yourself.
+ relates to the purpose. Your purpose 'uplifts' you in varying degrees- cooking for the love of cooking may be more uplifting than just doing it for someone else. On the other hand, if you're doing it for someone whom you adore, that may be more uplifting than doing it for yourself._
 
 <a name='applnote_10'></a>
 > Look beyond desire. Focus on the purpose even when you don’t reach the goal you expect.
 
-With this example, I know the meaning of 
+_With this example, I know the meaning of 
 `धर्म` `[dharma]`
- but its application remains shady. Do I consider my duty and profession to be above personal relationships? Or cater to the needs of my dear ones, disregarding rights and opportunity when they come in the way? What is the purpose of my activities? 
+ but its application remains shady. Do I consider my duty and profession to be above personal relationships? Or cater to the needs of my dear ones, disregarding rights and opportunity when they come in the way? What is the purpose of my activities?_
 
-The problem of purpose appears again and again in the Mahabharata. The resolution is also consistently stated each time: Look beyond desires. Focus on purpose and don't go behind outcomes. Have the Lord as your purpose and worship Him. At this point, there doesn’t seem to be a logical link from the ‘problem of purpose’ to the ‘resolution by worship’. That’s the journey of the Gita.
+_The problem of purpose appears again and again in the Mahabharata. The resolution is also consistently stated each time: Look beyond desires. Focus on purpose and don't go behind outcomes. Have the Lord as your purpose and worship Him. At this point, there doesn’t seem to be a logical link from the ‘problem of purpose’ to the ‘resolution by worship’. That’s the journey of the Gita._
 
 ## यज्ञ	[yajJa] - worship
 
-To ‘worship’ is to ‘honor and adore’. Doing this consciously means doing it according to a procedure. Though the word 
+_To ‘worship’ is to ‘honor and adore’. Doing this consciously means doing it according to a procedure. Though the word 
 `यज्ञ` `[yajJa]`
- is often used to mean ‘sacrifice’, here we consider the more general meaning of ‘worship’.
+ is often used to mean ‘sacrifice’, here we consider the more general meaning of ‘worship’._
 
 <a name='applopener_11'></a>
 > Is there a different way?
@@ -152,45 +152,45 @@ To ‘worship’ is to ‘honor and adore’. Doing this consciously means doing
 
 ## मोक्ष [mokSa] - liberation
 
-Moksha is to be free of all limitations. 
+_Moksha is to be free of all limitations._
 
 <a name='applnote_12'></a>
 > What’s it like to be really free?
 
-We cannot imagine this state of being, since we’ve never been free of all limitations. To start with, we need to live with the limitations of our body. Then there is the limitation that comes from our desires and attachments - which may come from things we own, the society, family or friends. 
+_We cannot imagine this state of being, since we’ve never been free of all limitations. To start with, we need to live with the limitations of our body. Then there is the limitation that comes from our desires and attachments - which may come from things we own, the society, family or friends._
 
-All of them are undoubtedly valuable - be it the body, the society, family or friends. We cannot accomplish much without them. The question is: How many activities do we initiate, expecting to gain or maintain them? How many activities do we initiate independently, after which the rest of the story comes together to make it 
-[happen](Back-to-Basics.md#actions_and_happenings)?
+_All of them are undoubtedly valuable - be it the body, the society, family or friends. We cannot accomplish much without them. The question is: How many activities do we initiate, expecting to gain or maintain them? How many activities do we initiate independently, after which the rest of the story comes together to make it 
+[happen](Back-to-Basics.md#actions_and_happenings)?_
 
-It isn’t necessary to have expectations whenever we initiate something. In fact, expectations are limiting in nature. Take the activity of singing, for instance. When I expect appreciation and sing, I do not feel much liberty in the initiative, being constrained by my impression of the audience. Even when I'm appreciated, it’s temporary and I need more appreciation the next time. It doesn’t liberate me in any way. On the other hand, if I sing for the joy of singing, it feels more liberating. There is no question of failure while I’m enjoying my singing. Though I may delight in an activity in this way, repeating the same thing feels boring and my initiative reduces. Then, such an initiative is not totally liberating either.
+_It isn’t necessary to have expectations whenever we initiate something. In fact, expectations are limiting in nature. Take the activity of singing, for instance. When I expect appreciation and sing, I do not feel much liberty in the initiative, being constrained by my impression of the audience. Even when I'm appreciated, it’s temporary and I need more appreciation the next time. It doesn’t liberate me in any way. On the other hand, if I sing for the joy of singing, it feels more liberating. There is no question of failure while I’m enjoying my singing. Though I may delight in an activity in this way, repeating the same thing feels boring and my initiative reduces. Then, such an initiative is not totally liberating either._
 
-What if there is a purpose that we’re always meant to achieve? What if any initiative towards that purpose was never to fail? What if that purpose is easy and always delightful, no matter how many times it’s repeated, no matter how much criticism happens? Being in such a purpose is the ultimate liberty. That purpose is the Lord. Achievement of that purpose is Moksha.
+_What if there is a purpose that we’re always meant to achieve? What if any initiative towards that purpose was never to fail? What if that purpose is easy and always delightful, no matter how many times it’s repeated, no matter how much criticism happens? Being in such a purpose is the ultimate liberty. That purpose is the Lord. Achievement of that purpose is Moksha._
 
-Those who are in this purpose 
-[are not driven](2-40.md#karmayoga) by the world.
+_Those who are in this purpose 
+[are not driven](2-40.md#karmayoga) by the world._
 
-Let’s examine a few more words before we get started with the Bhagavad-Gita.
+_Let’s examine a few more words before we get started with the Bhagavad-Gita._
 
 <a name='beginningless_time'></a>
 
 ## अनादि काल [anAdi kAla] - beginning-less time
 
-It's the time that spans across cycles of creation and destruction. It has no beginning. As opposed to this, the ‘normal’ time is the one we experience, which starts with the
-[creation of this universe](13-5_to_13-6.md#CosmicInflation_stages)
+_It's the time that spans across cycles of creation and destruction. It has no beginning. As opposed to this, the ‘normal’ time is the one we experience, which starts with the
+[creation of this universe](13-5_to_13-6.md#CosmicInflation_stages)_
 
 ## विशेषण [vizeSaNa] - attribute
 
-An attribute is a property that cannot exist on its own. For example, 'red color' is an attribute of blood: the attribute of 'redness' cannot exist on its own: there has to be an object that shows up as red, for the attribute to exist. Likewise, we and our universe are attributes of the Lord.
+_An attribute is a property that cannot exist on its own. For example, 'red color' is an attribute of blood: the attribute of 'redness' cannot exist on its own: there has to be an object that shows up as red, for the attribute to exist. Likewise, we and our universe are attributes of the Lord._
 
 ## मनस् [manas] - mind, imagination
 
-The mind is an instrument for the Self to experience this universe. Understanding, perception, intelligence and cognition come from the mind.
-Imagination is its function - it's about making an image from all our perceptions.
+_The mind is an instrument for the Self to experience this universe. Understanding, perception, intelligence and cognition come from the mind.
+Imagination is its function - it's about making an image from all our perceptions._
 
 ## बुद्धि [buddhi] - intellect 
 
-The intellect gives the ability to reason and distinguish.
+_The intellect gives the ability to reason and distinguish._
 
 ## References to the Lord
 
-All references to the Lord, including pronouns, start with an uppercase letter. For example: The Lord said ‘I make Myself come into being by My own will’.
+_All references to the Lord, including pronouns, start with an uppercase letter. For example: The Lord said ‘I make Myself come into being by My own will’._
