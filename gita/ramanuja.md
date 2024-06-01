@@ -17,7 +17,7 @@ _In Kanchi, Ramanuja meets Mahapurna, A disciple of Yamunacharya. Mahapurna requ
 _Yet, Ramanuja notices that 3 fingers of the guru are folded. They represented three unfulfilled wishes. Ramanuja promises to propagate devotion to the Lord, to write a commentary on the `ब्रह्मसूत्र` `[brahmasUtra]`, and to pay off the debt to Parashara. Parashara Maharshi is the author of `विश्णु पुराण` `[vizNu purANa]`, referred several times in this commentary._
 _The fingers unfold and Ramanuja sets off on his journey._
 
-## Srirangam:
+## Srirangam
 
 _Ramanuja continues to preach at Kanchi. His fame spreads far and wide. His first teacher Yadava Prakasha decided to surrender and become his disciple._
 _One day, the Srivaishnavas (devotees of Lord Vishnu) came to Kanchi to take Ramanuja to their town. After long discussions between the people of Kanchi and Srirangam, Ramanuja goes to Srirangam and continues spreading knowledge._
