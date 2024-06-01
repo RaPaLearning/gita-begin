@@ -1,5 +1,6 @@
 # Ramanuja
 
+<a name='ramanuja3'></a>
 _Ramanuja lived in 11th century India. He propagated devotion and surrender to the Lord in his commentaries. His works are foundational to the `विशिष्टाद्वैत` [viziStAdvaita] school of interpreting the scriptures._
 
 _At the age of 16, he decided to leave for Kanchi in search of higher education. He sought out a guru called Yadava Prakasha._
@@ -10,6 +11,7 @@ _At Kanchi, Ramanuja started serving in the Varadaraja temple._
 
 ## Three Promises
 
+<a name='threepromises'></a>
 _In Kanchi, Ramanuja meets Mahapurna, A disciple of Yamunacharya. Mahapurna requests Ramanuja to visit his guru. Unfortunately, by the time Ramanuja could meet him, Yamunacharya had left this world._
 
 _Yet, Ramanuja notices that 3 fingers of the guru are folded. They represented three unfulfilled wishes. Ramanuja promises to propagate devotion to the Lord, to write a commentary on the `ब्रह्मसूत्र` `[brahmasUtra]`, and to pay off the debt to Parashara. Parashara Maharshi is the author of `विश्णु पुराण` `[vizNu purANa]`, referred several times in this commentary._
@@ -22,6 +24,7 @@ _One day, the Srivaishnavas (devotees of Lord Vishnu) came to Kanchi to take Ram
 
 ## Om namO nArAyanAya
 
+<a name='omnamonarayanaya'></a>
 _In search of salvation, Ramanuja goes to Goshti Purana in Tirukotti. There, Goshti Purna tells him that the path to salvation is `ॐ नमो नारायणाय` `[Om namO nArAyanAya]`. It is the first mantra of surrender to Lord Narayana. He tells Ramanuja to keep this a secret._
 _The next day, Ramanuja goes to the top of the temple and preaches `ॐ नमो नारायणाय` `[Om namO nArAyanAya]` to everyone. Seeing this, Gosthi Purna gets angry with Ramanuja. Ramanuja says, 'I am ready to be at fault, if a hundred others reach salvation'. This impresses Goshti Purana and they hug each other._ _Later, Ramanuja writes a commentary on the Brahmasutras named Sribhashya._
 
@@ -33,7 +36,7 @@ _Ramanuja had to leave Srirangam due to Srivaishnavas being ill-treated. He rece
 
 _Sanyasa is about leaving the obsession with ‘I’_
 
-_At Srirangam, Ramanuja saw the king Dhanurdasa showing love towards his wife in public. This was shamed by the people._
+_At Srirangam, Ramanuja saw the king Dhanurdasa showing love towards his wife in public. People around him ridiculed this._
 _Ramanuja appreciated his love, asking the king what he liked the most in his wife. The king replied saying that he loved his wife’s eyes._
 _Ramanuja promised to show the king something which is more beautiful._
 _He took the king to the temple and showed him the Lord._
