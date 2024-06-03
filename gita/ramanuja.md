@@ -1,7 +1,7 @@
 # Ramanuja
 
 <a name='ramanuja3'></a>
-_Ramanuja lived in 11th century India. He propagated devotion and surrender to the Lord in his commentaries. His works are foundational to the `विशिष्टाद्वैत` [viziStAdvaita] school of interpreting the scriptures._
+_Ramanuja lived in 11th century India. He propagated devotion and surrender to the Lord in his commentaries. His works are foundational to the `विशिष्टाद्वैत` `[viziStAdvaita]` school of interpreting the scriptures._
 
 _At the age of 16, he decided to leave for Kanchi in search of higher education. He sought out a guru called Yadava Prakasha._
 _Yadava and Ramanuja did not agree on the same terms of interpretation of scriptures. Yadava could not tolerate this._
