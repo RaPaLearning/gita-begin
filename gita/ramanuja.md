@@ -19,6 +19,7 @@ _The fingers unfold and Ramanuja sets off on his journey._
 
 ## Srirangam
 
+<a name='srirangam'></a>
 _Ramanuja continues to preach at Kanchi. His fame spreads far and wide. His first teacher Yadava Prakasha decided to surrender and become his disciple._
 _One day, the Srivaishnavas (devotees of Lord Vishnu) came to Kanchi to take Ramanuja to their town. After long discussions between the people of Kanchi and Srirangam, Ramanuja goes to Srirangam and continues spreading knowledge._
 
@@ -30,10 +31,12 @@ _The next day, Ramanuja goes to the top of the temple and preaches `ॐ नम�
 
 ## Melukote
 
+<a name='melukote'></a>
 _Ramanuja had to leave Srirangam due to Srivaishnavas being ill-treated. He received a grand welcome by the Hoysala king of Karnataka. He toured the place preaching. One day, he and his disciples come across an anthill in Melukote, giving off a pleasant fragrance. After digging it, Ramanuja found a beautiful idol of Lord Narayana. He built a temple for it in Melukote and opened it to all people._
 
 ## Sanyasa
 
+<a name='sanyasa'></a>
 _Sanyasa is about leaving the obsession with ‘I’_
 
 _At Srirangam, Ramanuja saw the king Dhanurdasa showing love towards his wife in public. People around him ridiculed this._

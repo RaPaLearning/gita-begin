@@ -55,7 +55,7 @@ By the emphasis laid here, we see that worship is the uninterrupted chain of tho
 <a name='applnote_117'></a>
 > Devotion is to worship with friendship.
 
-This is called bhakti: 'When the uninterrupted chain of thought is filled with friendship, it is called bhakti' -as stated in [laingapurANa,uttarabhAga:].
+This is called bhakti: 'When the uninterrupted chain of thought is filled with friendship, it is called bhakti' -as stated in `लैङपुराण​,उत्तरभाग​:` `[laingapurANa,uttarabhAga:]`.
 
 Further, there are more statements in the scriptures that convey the same meaning:
 
