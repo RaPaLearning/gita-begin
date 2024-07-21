@@ -26,8 +26,8 @@ _One day, the Srivaishnavas (devotees of Lord Vishnu) came to Kanchi to take Ram
 ## Om namO nArAyanAya
 
 <a name='omnamonarayanaya'></a>
-_In search of salvation, Ramanuja goes to Goshti Purana in Tirukotti. There, Goshti Purna tells him that the path to salvation is `ॐ नमो नारायणाय` `[Om namO nArAyanAya]`. It is the first mantra of surrender to Lord Narayana. He tells Ramanuja to keep this a secret._
-_The next day, Ramanuja goes to the top of the temple and preaches `ॐ नमो नारायणाय` `[Om namO nArAyanAya]` to everyone. Seeing this, Gosthi Purna gets angry with Ramanuja. Ramanuja says, 'I am ready to be at fault, if a hundred others reach salvation'. This impresses Goshti Purana and they hug each other._ _Later, Ramanuja writes a commentary on the Brahmasutras named Sribhashya._
+_In search of salvation, Ramanuja goes to Goshti Purna in Tirukotti. There, Goshti Purna tells him that the path to salvation is `ॐ नमो नारायणाय` `[Om namO nArAyanAya]`. It is the first mantra of surrender to Lord Narayana. He tells Ramanuja to keep this a secret._
+_The next day, Ramanuja goes to the top of the temple and preaches `ॐ नमो नारायणाय` `[Om namO nArAyanAya]` to everyone. Seeing this, Gosthi Purna gets angry with Ramanuja. Ramanuja says, 'I am ready to be at fault, if a hundred others reach salvation'. This impresses Goshti Purna and they hug each other._ _Later, Ramanuja writes a commentary on the Brahmasutras named Sribhashya._
 
 ## Melukote
 
