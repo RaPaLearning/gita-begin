@@ -13,8 +13,8 @@ tam eva cAdyam puruSam prapadye
 yataH pravRttiH prasRtA purANI || 4 ||
 
 ```
-`प्रपद्येत्` `[prapadye]` Seek the goal diligently- "I [surrender](7-19.md#Sharanagati)
-`तम् एव` `[tam eva]` to that very `आद्यम् पुरुषम्` `[Adyam puruSam]` Ancient Person `यतः` `[yataH]` from whom `प्रवृत्तिः` `[pravRttiH]` all existence `प्रसृता` `[prasRtA]` came forth `पुराणी` `[purANI]` long ago."
+`प्रपद्ये` `[prapadye]` Seek the goal diligently- "I [surrender](7-19.md#Sharanagati)
+`तम् एव` `[tam eva]` to that very `आद्यम् पुरुषम्` `[Adyam puruSam]` Ancient Person, `यतः` `[yataH]` from whom `प्रवृत्तिः` `[pravRttiH]` all existence `प्रसृता` `[prasRtA]` came forth `पुराणी` `[purANI]` long ago."
 
 
 <a name='applnote_198'></a>
@@ -36,7 +36,7 @@ The fact that the Lord is the origin and that we must surrender to Him was descr
 [surrender](7-19.md#Sharanagati)
  to Me alone - they will cross over this material world’. 
 
-There is an alternate way to read this Shloka - the syllables in [prapadyEt yata: pravr'tti:] can also be read as [prapadya iyata: pravr'tti:], which means 'By 
+There is an alternate way to read this Shloka - the syllables in [prapadye yata: pravr'tti:] can also be read as [prapadya iyata: pravr'tti:], which means 'By 
 [surrender](7-19.md#Sharanagati)
 , the full extent of achievements are possible'. With this reading, the meaning of the Shloka is:
 
