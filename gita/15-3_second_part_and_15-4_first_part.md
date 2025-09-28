@@ -17,7 +17,7 @@ tataH padam tat parimArgitavyam
 yasmin gatA na nivartanti bhUyaH |
 
 ```
-`छित्वा` `[chitvA]` Having cut off `एनम् अश्वत्थम्` `[enam azvattham]` this pepal tree `सुविरूढमूलम्` `[suvirUDhamUlam]` with its overgrown roots `असङ्ग शस्त्रेण` `[asaGga zastreNa]` using the weapon of decoupling `दृढेन` `[dRDhena]` and strength, `ततः तत् पदम्` `[tataH tat padam]` that goal `परिमार्गितव्यम्` `[parimArgitavyam]` is to be sought - `यस्मिन् गताः` `[yasmin gatAH]` the state from which `न निवर्तन्ति भूयः` `[na nivartanti bhUyaH]` people do not return anymore.
+`छित्वा` `[chitvA]` Having cut off `एनम् अश्वत्थम्` `[enam azvattham]` this pepal tree `सुविरूढमूलम्` `[suvirUDhamUlam]` with its overgrown roots `असङ्ग शस्त्रेण` `[asaGga zastreNa]` using the weapon of decoupling `दृढेन` `[dRDhena]` and strength, `ततः तत् पदम्` `[tataH tat padam]` that goal `परिमार्गितव्यम्` `[parimArgitavyam]` must be sought - `यस्मिन् गताः` `[yasmin gatAH]` the state from which `न निवर्तन्ति भूयः` `[na nivartanti bhUyaH]` people do not return anymore.
 
 This 
 [pepal tree](15-2.md#pepal_tree)

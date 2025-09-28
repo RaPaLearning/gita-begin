@@ -3,18 +3,18 @@
 
 ```shloka-sa
 
-तम् एव चाद्यम् पुरुषम् प्रपद्येत्
+तम् एव चाद्यम् पुरुषम् प्रपद्ये
 यतः प्रवृत्तिः प्रसृता पुराणी ॥ ४ ॥
 
 ```
 ```shloka-sa-hk
 
-tam eva cAdyam puruSam prapadyet
+tam eva cAdyam puruSam prapadye
 yataH pravRttiH prasRtA purANI || 4 ||
 
 ```
-`प्रपद्येत्` `[prapadyet]` You must 
-[surrender](7-19.md#Sharanagati) `तम् एव` `[tam eva]` to that very `पुरुषम्` `[puruSam]` Person `यतः` `[yataH]` from whom `प्रवृत्तिः` `[pravRttiH]` all existence `प्रसृता` `[prasRtA]` came forth `पुराणी` `[purANI]` long ago.
+`प्रपद्येत्` `[prapadye]` Seek the goal diligently- "I [surrender](7-19.md#Sharanagati)
+`तम् एव` `[tam eva]` to that very `आद्यम् पुरुषम्` `[Adyam puruSam]` Ancient Person `यतः` `[yataH]` from whom `प्रवृत्तिः` `[pravRttiH]` all existence `प्रसृता` `[prasRtA]` came forth `पुराणी` `[purANI]` long ago."
 
 
 <a name='applnote_198'></a>
