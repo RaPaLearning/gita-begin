@@ -11,13 +11,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v5
     - name: Use nodejs
-      uses: actions/setup-node@v4.1.0
+      uses: actions/setup-node@v5
       with:
-        node-version: '18.x'
+        node-version: 24
     - name: Setup link checker
-      run: npm install -g jscpd markdownlint-cli markdown-link-check@3.10.3
+      run: npm install -g jscpd markdownlint-cli markdown-link-check
 
     - name: Check links
       run: |
